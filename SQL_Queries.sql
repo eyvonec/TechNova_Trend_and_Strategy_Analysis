@@ -110,7 +110,6 @@ SELECT
 FROM cohort_retention
 ORDER BY signup_month, purchase_month;
 
-
 -- 	Repeat Purchase Rate: Percentage of customers with more than one order 19.84%
 
 WITH customer_orders AS (
@@ -127,6 +126,7 @@ SELECT
 FROM customer_orders;
 
 -- 	Loyalty Program Impact: Comparing CLV, purchase frequency, and order size between loyalty vs. non-loyalty customers
+
 WITH customer_spending AS (
     -- Calculate CLV, Purchase Frequency, and Avg Order Value per Customer
     SELECT 
@@ -160,6 +160,7 @@ GROUP BY loyalty_program
 ORDER BY avg_clv DESC;
 
 --- does loyalty member make only one time purchase? 
+
 WITH customer_orders AS (
     SELECT 
         customer_id,
@@ -197,6 +198,7 @@ ORDER BY refund_rate DESC;
 
 --- does customer join loyalty program simply because they are buying higher price product and may need to refund? 
 --- do loyalty program members buy higher priced product? 
+
 SELECT 
     c.loyalty_program,
     round(avg(o.usd_price), 2) AS avg_order_value,
@@ -208,6 +210,7 @@ GROUP BY c.loyalty_program
 ORDER BY avg_order_value DESC;
 
 --- do loyalty program members refunding higher priced product? 
+
 SELECT 
     c.loyalty_program,
     round(avg(o.usd_price), 2) AS avg_price_of_refunded_orders,
@@ -223,6 +226,7 @@ GROUP BY c.loyalty_program
 ORDER BY avg_price_of_refunded_orders DESC;
 
 --- the loyalty program join rate by each product
+
 SELECT 
     CASE WHEN o.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE o.product_name END AS product_name,
     round(avg(c.loyalty_program), 4) AS loyalty_program_join_rate
@@ -231,6 +235,8 @@ LEFT JOIN core.customers c
     ON o.customer_id = c.id
 GROUP BY 1
 ORDER BY 2 DESC;
+
+
 
 -- 2. Revenue
 
@@ -298,7 +304,6 @@ ORDER BY 1;
 --- diff_day_ship_to_delivery: faster - APAC > overall_avg = LATAM > EMEA = NA
 --- diff_day_order_to_delivery: faster - LATAM > NA > overall_avg > APAC = EMEA
 
-
 WITH overall_avg AS (
   SELECT 
     round(avg(date_diff(ship_ts, purchase_ts, day)), 2) AS avg_day_order_to_ship,
@@ -339,6 +344,8 @@ SELECT
 FROM region_avg r
 CROSS JOIN overall_avg o
 ORDER BY r.region;
+
+
 
 -- 4. Refund Rate
 -- 	What percentage of orders result in refunds, and why?
@@ -438,7 +445,6 @@ LEFT JOIN core.geo_lookup g
 GROUP BY 1, 2
 ORDER BY refund_rate DESC;
 
-
 --- Refund by marketing channel: unknown > social media > direct > affiliate > email 
 --- Refund by marketing channel and region: EMEA unknown > NA unknown > APAC social media > NA social media > NA affiliate
 
@@ -452,7 +458,6 @@ LEFT JOIN core.customers c
     ON o.customer_id = c.id
 GROUP BY 1
 ORDER BY refund_rate DESC;
-
 
 SELECT 
     g.region,
@@ -474,7 +479,6 @@ SELECT
   APPROX_QUANTILES(usd_price, 5) AS price_distribution
 FROM core.orders;
 
-
 SELECT 
     CASE 
         WHEN o.usd_price < 50 THEN 'Low ($0-$50)'
@@ -488,9 +492,11 @@ LEFT JOIN core.orders o
 GROUP BY order_value_segment
 ORDER BY refund_rate DESC;
 
--- 	5. Geographic Order Distribution
 
+
+-- 	5. Geographic Order Distribution
 --- Apparently, the company is total orders focused more on English speaking countries US > GB > AU > CA
+
 SELECT 
     geo_lookup.region, 
     geo_lookup.country, 
@@ -534,6 +540,8 @@ LEFT JOIN core.geo_lookup
 GROUP BY 1
 ORDER BY avg_order_value DESC;
 
+
+
 -- 6. Customer Acquisition & Growth
 -- 	Which marketing channels are the most profitable?
 
@@ -570,8 +578,6 @@ FROM customer_type
 GROUP BY customer_status
 ORDER BY total_customers DESC;
 
-
-
 -- 	Marketing Channel Effectiveness: Revenue contribution by marketing_channel 
 
 SELECT 
@@ -584,7 +590,6 @@ LEFT JOIN core.customers c
   ON o.customer_id = c.id
 GROUP BY 1
 ORDER BY 2 DESC;
-
 
 -- 	Account Creation Trends: Monthly sign-up trends 
 
