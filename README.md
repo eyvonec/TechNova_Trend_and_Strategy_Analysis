@@ -1,2 +1,2 @@
-# TechNova_Trend_Strategy
+# TechNova_Trend_and_Strategy_Analysis
 TechNova 
