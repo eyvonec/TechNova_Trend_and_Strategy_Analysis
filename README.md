@@ -14,7 +14,7 @@ To acquire and retain customers, Technova leverages a mix of marketing channels,
 
 ### Refund Rate 
 
-### Loytalty Program
+### Loyalty Program
 
 ### Marketing Channel
 
