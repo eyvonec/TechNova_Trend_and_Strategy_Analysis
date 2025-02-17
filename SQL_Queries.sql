@@ -1,6 +1,6 @@
 -- 0. Clean Data 
---- Count the % of null to decide how to deal with null
---- Make sure the number of duplications in the data
+--- Count the % of null to decide how to deal with null: the result is less than 0.03, thus, doesn't impact the analysis too much
+--- Make sure the number of duplications in the data: no duplicate detected
 
 WITH total_counts AS (
     SELECT COUNT(*) AS total_orders FROM core.orders
@@ -81,7 +81,6 @@ LEFT JOIN top_customers tc
     ON o.customer_id = tc.customer_id
 GROUP BY 1, 2
 ORDER BY tc.customer_id, total_spent_on_product DESC;
-
 
 --- monthly rentention rate
 
@@ -215,7 +214,7 @@ SELECT
     c.loyalty_program,
     round(avg(o.usd_price), 2) AS avg_price_of_refunded_orders,
     count(DISTINCT o.id) AS total_orders,
-    round(avg(CASE WHEN os.refund_ts IS NOT NULL THEN 1 ELSE 0 END), 4) AS refund_rate
+    max(o.usd_price) AS highest_price_refunded
 FROM core.orders o
 LEFT JOIN core.customers c 
     ON o.customer_id = c.id
@@ -303,6 +302,7 @@ ORDER BY 1;
 --- diff_day_order_to_ship: faster - LATAM > NA > overall_avg > EMEA > APAC
 --- diff_day_ship_to_delivery: faster - APAC > overall_avg = LATAM > EMEA = NA
 --- diff_day_order_to_delivery: faster - LATAM > NA > overall_avg > APAC = EMEA
+
 
 WITH overall_avg AS (
   SELECT 
@@ -445,6 +445,7 @@ LEFT JOIN core.geo_lookup g
 GROUP BY 1, 2
 ORDER BY refund_rate DESC;
 
+
 --- Refund by marketing channel: unknown > social media > direct > affiliate > email 
 --- Refund by marketing channel and region: EMEA unknown > NA unknown > APAC social media > NA social media > NA affiliate
 
@@ -458,6 +459,7 @@ LEFT JOIN core.customers c
     ON o.customer_id = c.id
 GROUP BY 1
 ORDER BY refund_rate DESC;
+
 
 SELECT 
     g.region,
@@ -479,6 +481,7 @@ SELECT
   APPROX_QUANTILES(usd_price, 5) AS price_distribution
 FROM core.orders;
 
+
 SELECT 
     CASE 
         WHEN o.usd_price < 50 THEN 'Low ($0-$50)'
@@ -495,6 +498,7 @@ ORDER BY refund_rate DESC;
 
 
 -- 	5. Geographic Order Distribution
+
 --- Apparently, the company is total orders focused more on English speaking countries US > GB > AU > CA
 
 SELECT 
