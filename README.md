@@ -49,6 +49,8 @@ The direct marketing channel is the most effective, generating the highest total
 
 Social media performs well with a 68.92% conversion rate, suggesting strong engagement, though it takes the longest for users to make their first purchase (49.14 days). Affiliate marketing also has a high conversion rate (53.74%) but a slightly shorter time to first purchase (47.79 days). The null category has moderate performance (45.16% conversion rate) but slow conversion (52.32 days). Email marketing drives a large number of signups (13,356) but has a much lower 10.69% conversion rate, indicating potential drop-offs. Direct traffic, despite the highest number of signups (57,722), has the lowest conversion rate (2.53%), suggesting that while many users visit directly, few convert, or they take a different path to conversion.
 
+![Marketing Channel](https://github.com/user-attachments/assets/789826ed-9972-4f52-8765-dfe5e5f1fa48)
+
 ## Recommendations
 
 ### Refund 
