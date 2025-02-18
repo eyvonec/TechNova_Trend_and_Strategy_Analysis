@@ -4,6 +4,7 @@ Founded in 2018, TechNova is a global e-commerce company specializing in electro
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
 
 ## Executive Summary
+TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium potential with the highest AOV, while logistics inefficiencies in APAC & EMEA need optimization. High-value products and social media-driven sales drive the most refunds, signaling quality concerns & impulse buying. The loyalty program fails to drive retention, with 99.53% of members making only one purchase. Direct marketing leads revenue, but social media conversions are slow. 
 
 ## Deep Dive Insights
 ### Trend Analysis
