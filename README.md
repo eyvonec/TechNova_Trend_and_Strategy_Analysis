@@ -18,6 +18,7 @@ At a regional level:
 This indicates strong demand from English-speaking markets, but higher spending per order in APAC suggests potential for strategic growth in that region.
 
 ### Logistics 
+Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, APAC and EMEA have the longest total delivery times (7.59 days), while LATAM (7.44 days) and NA (7.48 days) are slightly faster. LATAM processes orders the fastest (1.93 days), while APAC is the slowest (2.12 days). Shipping times are similar across regions, with APAC being slightly faster (5.48 days) and EMEA/NA the slowest (5.51 days). Optimizing order processing and shipping efficiencies in APAC and EMEA could reduce overall delivery times.
 
 ### Refund Rate 
 
