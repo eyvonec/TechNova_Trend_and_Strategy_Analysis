@@ -8,7 +8,7 @@ TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium
 
 ## Deep Dive Insights
 ### Trend Analysis
-Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. A sharp spike in March 2020 suggests a pandemic-driven surge in demand, while a significant dip in October 2022 may indicate market shifts or economic factors.
+Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
 
 ![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
 
