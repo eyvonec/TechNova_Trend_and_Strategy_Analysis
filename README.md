@@ -83,4 +83,6 @@ Instead of rewarding new members with discounts, introduce tier-based loyalty pr
 5. Optimize Email & Social Media – Email (10.69% conversion) needs better automation. Social media (68.92% conversion) needs urgency-driven promotions.
 6. Speed Up First Purchases – Shorten 47+ day lag for affiliate & social media buyers with discounts and flash sales.
 
-
+##### NOTE
+- For every column, less than 3% is null. Thus, the impact is negligible.
+- Please find the SQL queries for more details
