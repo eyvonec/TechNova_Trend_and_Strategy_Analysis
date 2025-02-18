@@ -9,6 +9,13 @@ To acquire and retain customers, Technova leverages a mix of marketing channels,
 ### Trend Analysis
 
 ### Geographic Distribution
+TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB), Australia (AU), and Canada (CA).
+
+At a regional level:
+	•	North America (NA) has the highest total orders, followed by EMEA, APAC, and LATAM.
+	•	APAC has the highest average order value (AOV), surpassing North America, EMEA, and LATAM.
+
+This indicates strong demand from English-speaking markets, but higher spending per order in APAC suggests potential for strategic growth in that region.
 
 ### Logistics 
 
