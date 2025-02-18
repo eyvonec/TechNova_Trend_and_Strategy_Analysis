@@ -36,6 +36,9 @@ Unknown sources (11.76%) and social media (7.51%) have the highest refund rates,
 
 Website (5.58%) has a higher refund rate than mobile app (2.05%), suggesting stronger purchase commitment via apps.
 
+![Refund Rate Order Value](https://github.com/user-attachments/assets/b5ebd21d-e9df-440c-a595-832029155a44)
+
+
 ### Loyalty Program
 Among the 32,501 loyalty members, the customer lifetime value (CLV), which evaluates how valuable a customer is over time , is significantly lower than non-members, averaging only $242.75, compared to $313.37 for non-members. This indicates that loyalty members do not contribute as much long-term value as expected.
 
