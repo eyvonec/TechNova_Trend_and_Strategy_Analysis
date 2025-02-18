@@ -26,6 +26,9 @@ This indicates strong demand from English-speaking markets, but higher spending 
 ### Logistics 
 Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, APAC and EMEA have the longest total delivery times (7.59 days), while LATAM (7.44 days) and NA (7.48 days) are slightly faster. LATAM processes orders the fastest (1.93 days), while APAC is the slowest (2.12 days). Shipping times are similar across regions, with APAC being slightly faster (5.48 days) and EMEA/NA the slowest (5.51 days). Optimizing order processing and shipping efficiencies in APAC and EMEA could reduce overall delivery times.
 
+![Logistics Efficiency](https://github.com/user-attachments/assets/d33632e4-afc1-4f27-9b1b-1188e978a01f)
+
+
 ### Refund Rate 
 Orders above $150 (6.52%) are returned the most, while low-value orders ($0-$50) have the lowest refund rate (1.55%). Breaking down the refund rate by product, the highest return rates are from the two laptops ThinkPad (11.73%) and MacBook Air (11.43%), where North America sees the highest laptop refunds, followed by APAC and LATAM. North America has the highest refund rate, followed by APAC, EMEA, and LATAM. LATAM (4.15%) has the lowest refund rate, possibly due to fewer high-value purchases, while APAC (4.95%) and EMEA (4.73%) are closer to the average.
 
@@ -41,6 +44,9 @@ Additionally, loyalty members have fewer total orders (32,789) and average order
 The most concerning trend is that 99.53% of loyalty members make only a single purchase while the repeat purchase rate for non-members is 23x higher (10.67%), comparing to 0.47% for members. The purchase frequency calculated by averaging the total orders is higher for non-members (1.14), comparing to 1.01 for members. This suggests that many customers may be joining the loyalty program solely to take advantage of some one-time offer like discounts, without remaining engaged with the company.
 
 Based on the analysis, TechNova’s loyalty program is failing to drive long-term customer engagement or increase revenue. Instead of encouraging repeat purchases, it appears to attract deal-seekers who exploit one-time benefits without fostering sustained customer loyalty.
+
+![Loyalty Program Analysis](https://github.com/user-attachments/assets/e2784a4b-e2de-4596-b583-db50695fd690)
+
 
 ### Marketing Channel
 Among the 92,527 customers, only 4,902 are repeating customers while the average order value by returning customers ($422.34) is 1.7x higher than new customers ($250.16). 
