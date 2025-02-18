@@ -21,6 +21,11 @@ This indicates strong demand from English-speaking markets, but higher spending 
 Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, APAC and EMEA have the longest total delivery times (7.59 days), while LATAM (7.44 days) and NA (7.48 days) are slightly faster. LATAM processes orders the fastest (1.93 days), while APAC is the slowest (2.12 days). Shipping times are similar across regions, with APAC being slightly faster (5.48 days) and EMEA/NA the slowest (5.51 days). Optimizing order processing and shipping efficiencies in APAC and EMEA could reduce overall delivery times.
 
 ### Refund Rate 
+Orders above $150 (6.52%) are returned the most, while low-value orders ($0-$50) have the lowest refund rate (1.55%). Breaking down the refund rate by product, the highest return rates are from the two laptops ThinkPad (11.73%) and MacBook Air (11.43%), where North America sees the highest laptop refunds, followed by APAC and LATAM. North America has the highest refund rate, followed by APAC, EMEA, and LATAM. LATAM (4.15%) has the lowest refund rate, possibly due to fewer high-value purchases, while APAC (4.95%) and EMEA (4.73%) are closer to the average.
+
+Unknown sources (11.76%) and social media (7.51%) have the highest refund rates, indicating poor targeting or impulse buying, while email (4.81%) and affiliate (5.00%) perform better, indicating more informed buying behavior.
+
+Website (5.58%) has a higher refund rate than mobile app (2.05%), suggesting stronger purchase commitment via apps.
 
 ### Loyalty Program
 Among the 32,501 loyalty members, the customer lifetime value (CLV), which evaluates how valuable a customer is over time , is significantly lower than non-members, averaging only $242.75, compared to $313.37 for non-members. This indicates that loyalty members do not contribute as much long-term value as expected.
@@ -39,6 +44,11 @@ The direct marketing channel is the most effective, generating the highest total
 Social media performs well with a 68.92% conversion rate, suggesting strong engagement, though it takes the longest for users to make their first purchase (49.14 days). Affiliate marketing also has a high conversion rate (53.74%) but a slightly shorter time to first purchase (47.79 days). The null category has moderate performance (45.16% conversion rate) but slow conversion (52.32 days). Email marketing drives a large number of signups (13,356) but has a much lower 10.69% conversion rate, indicating potential drop-offs. Direct traffic, despite the highest number of signups (57,722), has the lowest conversion rate (2.53%), suggesting that while many users visit directly, few convert, or they take a different path to conversion.
 
 ## Recommendations
+
+### Refund 
+- Improve product descriptions and quality control for high-value products to lower return rates and investigate high laptop return rates, especially in NA and APAC, and adjust policies or support.
+- Refine social media marketing to reduce impulse purchases and misinformation.
+- Promote mobile app purchases, as they result in fewer refunds.
 
 ### Loyalty Program
 Instead of rewarding new members with discounts, introduce tier-based loyalty program to enhance customer loyalty. 
