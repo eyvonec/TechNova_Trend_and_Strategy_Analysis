@@ -14,6 +14,9 @@ When comparing total sales growth, order count growth, and AOV growth, sales and
 
 Additionally, 2019 and 2020 show more positive growth spikes, whereas 2021 and 2022 exhibit more frequent declines, potentially due to post-pandemic saturation, inflation, or the nature of electronics being a less frequent purchase compared to essentials.
 
+![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
+
+
 ### Geographic Distribution
 TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB), Australia (AU), and Canada (CA).
 
