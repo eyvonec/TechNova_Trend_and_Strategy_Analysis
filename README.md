@@ -7,6 +7,9 @@ To acquire and retain customers, Technova leverages a mix of marketing channels,
 TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium potential with the highest AOV, while logistics inefficiencies in APAC & EMEA need optimization. High-value products and social media-driven sales drive the most refunds, despite social meida has the highest conversion rate, implying potential impulsive purchasing. The loyalty program fails to drive retention, with 99.53% of members making only one purchase. As returning customers generate higher average order value, there is a need to change loyalty program policy to increase returning customers. In addition, marketing should focus on social media (higher conversion rate) and affiliate program, which generates highest average order value. 
 
 ## Deep Dive Insights
+### Overview
+The dataset covers a total orders count of 108K and total sales of $28M USD from 2019 to 2022. TechNova's customers are from 193 countries and there are 8 products sold on the platform, including laptops, monitors, headphones, etc. 
+
 ### Trend Analysis
 Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
 
