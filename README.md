@@ -4,13 +4,17 @@ Founded in 2018, TechNova is a global e-commerce company specializing in electro
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
 
 ## Executive Summary
-TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium potential with the highest AOV, while logistics inefficiencies in APAC & EMEA need optimization. High-value products and social media-driven sales drive the most refunds, despite social meida has the highest conversion rate, implying potential impulsive purchasing. The loyalty program fails to drive retention, with 99.53% of members making only one purchase. As returning customers generate higher average order value, there is a need to change loyalty program policy to increase returning customers. In addition, marketing should focus on social media (higher conversion rate) and affiliate program, which generates highest average order value. 
+[TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium potential with the highest AOV, while logistics inefficiencies in APAC & EMEA need optimization. High-value products and social media-driven sales drive the most refunds, despite social meida has the highest conversion rate, implying potential impulsive purchasing. The loyalty program fails to drive retention, with 99.53% of members making only one purchase. As returning customers generate higher average order value, there is a need to change loyalty program policy to increase returning customers. In addition, marketing should focus on social media (higher conversion rate) and affiliate program, which generates highest average order value. ]
 
 ## Deep Dive Insights
 ### Overview
 The dataset covers a total orders count of 108K and total sales of $28M USD from 2019 to 2022. TechNova's customers are from 193 countries and there are 8 electronic products sold on the platform, including laptops, monitors, headphones, etc. 
 
 ### Trend Analysis
+A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
+
+![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
+
 Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. 
 
 When comparing total sales growth, order count growth, and AOV growth, sales and order count growth are generally correlated, while AOV growth sometimes moves in the opposite direction, implying shifts toward higher-value purchases during certain periods.
@@ -19,17 +23,17 @@ Additionally, 2019 and 2020 show more positive growth spikes, whereas 2021 and 2
 
 ![Monthly Growth Rate 2019-2022](https://github.com/user-attachments/assets/b269e10b-dec3-460d-a5bb-73721f0f4ca6)
 
-A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
-
-![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
-
 
 ### Geographic Distribution
-TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB), Australia (AU), and Canada (CA).
+TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB) and Canada (CA). The distribution pattern of total sales does not change across 2019 to 2022 but during the year of pandemic (2020), the amount of total sales increased across all the top 10 countries, indicating the global impact of high-demand in electronic devices caused by the pandemic. 
+
+![Sheet 3](https://github.com/user-attachments/assets/845291a5-d4ff-4559-bd1d-051c280ab859)
 
 At a regional level:
 - North America (NA) has the highest total orders, followed by EMEA, APAC, and LATAM.
 - APAC has the highest average order value (AOV), surpassing North America, EMEA, and LATAM.
+  
+![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
 This indicates strong demand from English-speaking markets, but higher spending per order in APAC suggests potential for strategic growth in that region.
 
