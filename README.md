@@ -25,7 +25,7 @@ Additionally, 2019 and 2020 show more positive growth spikes, whereas 2021 and 2
 
 
 ### Geographic Distribution
-TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB) and Canada (CA). The distribution pattern of total sales does not change across 2019 to 2022 but during the year of pandemic (2020), the amount of total sales increased across all the top 10 countries, indicating the global impact of high-demand in electronic devices caused by the pandemic. 
+TechNova’s total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB) and Canada (CA). The distribution pattern of total sales does not change across 2019 to 2022 but during the year of pandemic (2020), the amount of total sales increased across all the top 10 countries, indicating the global impact of high-demand in electronic devices caused by the pandemic. 
 
 ![Sheet 3](https://github.com/user-attachments/assets/845291a5-d4ff-4559-bd1d-051c280ab859)
 
