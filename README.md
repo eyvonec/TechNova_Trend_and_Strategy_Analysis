@@ -8,16 +8,21 @@ TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium
 
 ## Deep Dive Insights
 ### Overview
-The dataset covers a total orders count of 108K and total sales of $28M USD from 2019 to 2022. TechNova's customers are from 193 countries and there are 8 products sold on the platform, including laptops, monitors, headphones, etc. 
+The dataset covers a total orders count of 108K and total sales of $28M USD from 2019 to 2022. TechNova's customers are from 193 countries and there are 8 electronic products sold on the platform, including laptops, monitors, headphones, etc. 
 
 ### Trend Analysis
-Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
-
-![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
+Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. 
 
 When comparing total sales growth, order count growth, and AOV growth, sales and order count growth are generally correlated, while AOV growth sometimes moves in the opposite direction, implying shifts toward higher-value purchases during certain periods.
 
 Additionally, 2019 and 2020 show more positive growth spikes, whereas 2021 and 2022 exhibit more frequent declines, potentially due to post-pandemic saturation, inflation, or the nature of electronics being a less frequent purchase compared to essentials.
+
+![Monthly Growth Rate 2019-2022](https://github.com/user-attachments/assets/b269e10b-dec3-460d-a5bb-73721f0f4ca6)
+
+A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
+
+![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
+
 
 ### Geographic Distribution
 TechNova’s total orders are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB), Australia (AU), and Canada (CA).
