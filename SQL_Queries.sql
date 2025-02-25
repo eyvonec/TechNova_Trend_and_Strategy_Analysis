@@ -82,6 +82,7 @@ LEFT JOIN top_customers tc
 GROUP BY 1, 2
 ORDER BY tc.customer_id, total_spent_on_product DESC;
 
+
 --- monthly rentention rate
 
 WITH monthly_customers AS (
@@ -109,6 +110,7 @@ SELECT
 FROM cohort_retention
 ORDER BY signup_month, purchase_month;
 
+
 -- 	Repeat Purchase Rate: Percentage of customers with more than one order 19.84%
 
 WITH customer_orders AS (
@@ -125,7 +127,6 @@ SELECT
 FROM customer_orders;
 
 -- 	Loyalty Program Impact: Comparing CLV, purchase frequency, and order size between loyalty vs. non-loyalty customers
-
 WITH customer_spending AS (
     -- Calculate CLV, Purchase Frequency, and Avg Order Value per Customer
     SELECT 
@@ -159,7 +160,6 @@ GROUP BY loyalty_program
 ORDER BY avg_clv DESC;
 
 --- does loyalty member make only one time purchase? 
-
 WITH customer_orders AS (
     SELECT 
         customer_id,
@@ -180,6 +180,30 @@ FROM customer_orders
 GROUP BY loyalty_program
 ORDER BY repeat_purchase_rate DESC;
 
+-- add time factor
+WITH customer_orders AS (
+    SELECT 
+        customer_id,
+        loyalty_program,
+        count(DISTINCT o.id) AS total_orders
+    FROM core.orders o
+    LEFT JOIN core.customers c 
+        ON o.customer_id = c.id
+    GROUP BY customer_id, loyalty_program
+)
+SELECT
+    extract(year from o.purchase_ts) AS year,
+    co.loyalty_program,
+    count(DISTINCT CASE WHEN co.total_orders = 1 THEN co.customer_id END) AS single_purchase_customers,
+    count(DISTINCT CASE WHEN co.total_orders > 1 THEN co.customer_id END) AS repeat_customers,
+    round(count(DISTINCT CASE WHEN co.total_orders > 1 THEN co.customer_id END) * 100.0 
+          / COUNT(DISTINCT co.customer_id), 2) AS repeat_purchase_rate
+FROM customer_orders co
+LEFT JOIN core.orders o
+    ON o.customer_id = co.customer_id
+GROUP BY 1, 2
+ORDER BY repeat_purchase_rate DESC;
+
 --- does loyalty program impact refund rate? 
 --- customer with loyalty program has higher refund rate than customer without
 
@@ -195,9 +219,23 @@ LEFT JOIN core.order_status os
 GROUP BY c.loyalty_program
 ORDER BY refund_rate DESC;
 
+-- add time factor
+
+SELECT 
+    extract(year from o.purchase_ts) AS year,
+    c.loyalty_program,
+    count(DISTINCT o.id) AS total_orders,
+    round(avg(CASE WHEN os.refund_ts IS NOT NULL THEN 1 ELSE 0 END), 4) AS refund_rate
+FROM core.orders o
+LEFT JOIN core.customers c 
+    ON o.customer_id = c.id
+LEFT JOIN core.order_status os
+    ON o.id = os.order_id
+GROUP BY 1, 2
+ORDER BY refund_rate DESC;
+
 --- does customer join loyalty program simply because they are buying higher price product and may need to refund? 
 --- do loyalty program members buy higher priced product? 
-
 SELECT 
     c.loyalty_program,
     round(avg(o.usd_price), 2) AS avg_order_value,
@@ -209,12 +247,11 @@ GROUP BY c.loyalty_program
 ORDER BY avg_order_value DESC;
 
 --- do loyalty program members refunding higher priced product? 
-
 SELECT 
     c.loyalty_program,
     round(avg(o.usd_price), 2) AS avg_price_of_refunded_orders,
     count(DISTINCT o.id) AS total_orders,
-    max(o.usd_price) AS highest_price_refunded
+    round(avg(CASE WHEN os.refund_ts IS NOT NULL THEN 1 ELSE 0 END), 4) AS refund_rate
 FROM core.orders o
 LEFT JOIN core.customers c 
     ON o.customer_id = c.id
@@ -225,7 +262,6 @@ GROUP BY c.loyalty_program
 ORDER BY avg_price_of_refunded_orders DESC;
 
 --- the loyalty program join rate by each product
-
 SELECT 
     CASE WHEN o.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE o.product_name END AS product_name,
     round(avg(c.loyalty_program), 4) AS loyalty_program_join_rate
@@ -235,7 +271,16 @@ LEFT JOIN core.customers c
 GROUP BY 1
 ORDER BY 2 DESC;
 
-
+-- add time factor
+SELECT 
+    extract(year from o.purchase_ts) AS year,
+    CASE WHEN o.product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE o.product_name END AS product_name,
+    round(avg(c.loyalty_program), 4) AS loyalty_program_join_rate
+FROM core.orders o
+LEFT JOIN core.customers c
+    ON o.customer_id = c.id
+GROUP BY 1, 2
+ORDER BY 3 DESC;
 
 -- 2. Revenue
 
@@ -345,7 +390,50 @@ FROM region_avg r
 CROSS JOIN overall_avg o
 ORDER BY r.region;
 
+-- add time factor
 
+WITH overall_avg AS (
+  SELECT 
+    round(avg(date_diff(ship_ts, purchase_ts, day)), 2) AS avg_day_order_to_ship,
+    round(avg(date_diff(delivery_ts, ship_ts, day)), 2) AS avg_day_ship_to_delivery,
+    round(avg(date_diff(delivery_ts, purchase_ts, day)), 2) AS avg_day_order_to_delivery
+  FROM core.order_status
+),
+
+region_avg AS (
+  SELECT 
+    extract(year from order_status.purchase_ts) AS year, 
+    geo_lookup.region,
+    round(avg(date_diff(order_status.ship_ts, order_status.purchase_ts, day)), 2) AS avg_day_order_to_ship,
+    round(avg(date_diff(order_status.delivery_ts, order_status.ship_ts, day)), 2) AS avg_day_ship_to_delivery,
+    round(avg(date_diff(order_status.delivery_ts, order_status.purchase_ts, day)), 2) AS avg_day_order_to_delivery
+  FROM core.order_status
+  LEFT JOIN core.orders
+    ON orders.id = order_status.order_id
+  LEFT JOIN core.customers
+   ON orders.customer_id = customers.id
+  LEFT JOIN core.geo_lookup
+   ON customers.country_code = geo_lookup.country
+  GROUP BY 1, 2
+)
+
+SELECT 
+    r.year,
+    r.region,
+    r.avg_day_order_to_ship,
+    o.avg_day_order_to_ship AS overall_avg_day_order_to_ship,
+    round(r.avg_day_order_to_ship - o.avg_day_order_to_ship, 2) AS diff_day_order_to_ship,
+
+    r.avg_day_ship_to_delivery,
+    o.avg_day_ship_to_delivery AS overall_avg_day_ship_to_delivery,
+    round(r.avg_day_ship_to_delivery - o.avg_day_ship_to_delivery, 2) AS diff_day_ship_to_delivery,
+
+    r.avg_day_order_to_delivery,
+    o.avg_day_order_to_delivery AS overall_avg_day_order_to_delivery,
+    round(r.avg_day_order_to_delivery - o.avg_day_order_to_delivery, 2) AS diff_day_order_to_delivery
+FROM region_avg r
+CROSS JOIN overall_avg o
+ORDER BY r.region;
 
 -- 4. Refund Rate
 -- 	What percentage of orders result in refunds, and why?
@@ -495,12 +583,9 @@ LEFT JOIN core.orders o
 GROUP BY order_value_segment
 ORDER BY refund_rate DESC;
 
-
-
 -- 	5. Geographic Order Distribution
 
 --- Apparently, the company is total orders focused more on English speaking countries US > GB > AU > CA
-
 SELECT 
     geo_lookup.region, 
     geo_lookup.country, 
@@ -544,8 +629,6 @@ LEFT JOIN core.geo_lookup
 GROUP BY 1
 ORDER BY avg_order_value DESC;
 
-
-
 -- 6. Customer Acquisition & Growth
 -- 	Which marketing channels are the most profitable?
 
@@ -582,6 +665,42 @@ FROM customer_type
 GROUP BY customer_status
 ORDER BY total_customers DESC;
 
+-- add time factor
+
+WITH first_order AS (
+    -- Find the first purchase timestamp for each customer
+    SELECT 
+        customer_id, 
+        MIN(purchase_ts) AS first_purchase_ts
+    FROM core.orders
+    GROUP BY customer_id
+),
+customer_type AS (
+    -- Classify customers as 'New' if their purchase matches their first purchase
+    SELECT 
+        o.customer_id,
+        CASE 
+            WHEN o.purchase_ts = f.first_purchase_ts THEN 'New Customer'
+            ELSE 'Returning Customer'
+        END AS customer_status,
+        o.usd_price
+    FROM core.orders o
+    LEFT JOIN first_order f
+        ON o.customer_id = f.customer_id
+)
+SELECT 
+    extract(year from orders.purchase_ts) AS year,
+    customer_type.customer_status,
+    count(DISTINCT customer_type.customer_id) AS total_customers,
+    count(*) AS total_orders,
+    round(sum(customer_type.usd_price), 2) AS total_revenue,
+    round(avg(customer_type.usd_price), 2) AS avg_order_value
+FROM customer_type
+LEFT JOIN core.orders
+    ON orders.customer_id = customer_type.customer_id
+GROUP BY 1, 2
+ORDER BY total_customers DESC;
+
 -- 	Marketing Channel Effectiveness: Revenue contribution by marketing_channel 
 
 SELECT 
@@ -595,6 +714,7 @@ LEFT JOIN core.customers c
 GROUP BY 1
 ORDER BY 2 DESC;
 
+
 -- 	Account Creation Trends: Monthly sign-up trends 
 
 SELECT 
@@ -604,7 +724,7 @@ FROM core.customers
 GROUP BY 1
 ORDER BY 2 DESC;
 
---- Relation between first purchase and account creation and marketing_channel: social media > affiliate > email > direct
+--- Relation between first purchase and account creation and marketing_channel: affiiliate > social media > direct > email
 
 WITH first_purchase AS (
     -- Find the first purchase date per customer
@@ -629,9 +749,45 @@ customer_marketing AS (
 SELECT 
     marketing_channel,
     count(DISTINCT id) AS total_signups,
-    count(DISTINCT first_purchase_date) AS converted_customers,
-    round(count(DISTINCT first_purchase_date) * 100.0 / count(DISTINCT id), 2) AS conversion_rate,
+    count(first_purchase_date) AS converted_customers,
+    round(count(first_purchase_date) * 100.0 / count(DISTINCT id), 2) AS conversion_rate,
     round(avg(days_to_first_purchase), 2) AS avg_days_to_first_purchase
 FROM customer_marketing
 GROUP BY marketing_channel
+ORDER BY conversion_rate DESC;
+
+-- add time 
+WITH first_purchase AS (
+    -- Find the first purchase date per customer
+    SELECT 
+        customer_id, 
+        MIN(purchase_ts) AS first_purchase_date
+    FROM core.orders
+    GROUP BY customer_id
+),
+customer_marketing AS (
+    -- Join customer sign-up data with first purchase
+    SELECT 
+        c.id AS customer_id,
+        c.created_on AS account_creation_date,
+        c.marketing_channel,
+        f.first_purchase_date,
+        DATE_DIFF(f.first_purchase_date, c.created_on, DAY) AS days_to_first_purchase
+    FROM core.customers c
+    LEFT JOIN first_purchase f 
+        ON c.id = f.customer_id
+)
+SELECT 
+    EXTRACT(YEAR FROM customer_marketing.account_creation_date) AS year,
+    customer_marketing.marketing_channel,
+    COUNT(DISTINCT customer_marketing.customer_id) AS total_signups,
+    COUNT(DISTINCT CASE WHEN customer_marketing.first_purchase_date IS NOT NULL THEN customer_marketing.customer_id END) AS converted_customers,
+    ROUND(
+        COUNT(DISTINCT CASE WHEN customer_marketing.first_purchase_date IS NOT NULL THEN customer_marketing.customer_id END) * 100.0 
+        / COUNT(DISTINCT customer_marketing.customer_id), 
+        2
+    ) AS conversion_rate,
+    ROUND(AVG(days_to_first_purchase), 2) AS avg_days_to_first_purchase
+FROM customer_marketing
+GROUP BY year, customer_marketing.marketing_channel
 ORDER BY conversion_rate DESC;
