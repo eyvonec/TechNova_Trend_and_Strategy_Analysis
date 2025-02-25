@@ -8,50 +8,42 @@ To acquire and retain customers, Technova leverages a mix of marketing channels,
 
 ## Deep Dive Insights
 ### Overview
-The dataset covers a total orders count of 108K and total sales of $28M USD from 2019 to 2022. TechNova's customers are from 193 countries and there are 8 electronic products sold on the platform, including laptops, monitors, headphones, etc. 
+Between 2019 and 2022, the dataset records 108K orders and $28M in sales. TechNova serves customers from 193 countries and offers a portfolio of 8 electronic product categories, including laptops, monitors, and headphones. 
 
 ### Trend Analysis
-A sharp spike in March 2020 suggests a pandemic-driven surge in demand (e.g., for monitors, headphones, laptops, etc.), while a significant dip in October 2022 may indicate market shifts or economic factors. 
+In March 2020, a pronounced spike suggests a pandemic-driven surge in demand—particularly for items like monitors, headphones, and laptops—while a significant dip in October 2022 may reflect market shifts or economic pressures.
 
 ![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
 
-Seasonal patterns emerge with November and December consistently showing the highest growth, likely due to holiday shopping, followed by a drop in growth in the surrounding months. 
+Seasonal trends are evident, with November and December consistently recording the highest growth (likely due to holiday shopping) followed by a downturn in the surrounding months.
 
-When comparing total sales growth, order count growth, and AOV growth, sales and order count growth are generally correlated, while AOV growth sometimes moves in the opposite direction, implying shifts toward higher-value purchases during certain periods.
+Comparing total sales, order count, and average order value (AOV) reveals that sales and order counts generally correlate. However, AOV sometimes diverges, indicating periods when customers favor higher-value purchases.
 
-Additionally, 2019 and 2020 show more positive growth spikes, whereas 2021 and 2022 exhibit more frequent declines, potentially due to post-pandemic saturation, inflation, or the nature of electronics being a less frequent purchase compared to essentials.
+Additionally, the data shows that 2019 and 2020 experienced more prominent growth spikes, whereas 2021 and 2022 saw more frequent declines. This shift could be attributed to factors such as post-pandemic market saturation, inflation, or the inherently less frequent nature of electronics purchases compared to essentials.
 
 ![Monthly Growth Rate 2019-2022](https://github.com/user-attachments/assets/b269e10b-dec3-460d-a5bb-73721f0f4ca6)
 
 
 ### Geographic Distribution
-TechNova’s total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain (GB) and Canada (CA). The distribution pattern of total sales does not change across 2019 to 2022 but during the year of pandemic (2020), the amount of total sales increased across all the top 10 countries, indicating the global impact of high-demand in electronic devices caused by the pandemic. 
+TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $3M USD), reflecting a global surge in demand for electronic devices.
 
 ![Sheet 3](https://github.com/user-attachments/assets/845291a5-d4ff-4559-bd1d-051c280ab859)
 
-At a regional level:
-- North America (NA) has the highest total orders, followed by EMEA, APAC, and LATAM.
-- EMEA has the highest average order value (AOV), surpassing APAC, North America and LATAM.
+Regionally, North America records the highest total orders, followed by EMEA, APAC, and LATAM, while EMEA boasts the highest average order value (AOV), outpacing APAC, North America, and LATAM. Given that most customers currently come from North America, TechNova should consider expanding further into the EMEA market to capture high-value clientele.
 
-While the majority of the customers come from North America, TechNova should consider expanding more to EMEA market to convert the high-value customers. 
-  
 ![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
 
 ### Logistics 
-Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, there is not much difference, especially the avergae day of shipmnet to delivery is almost the same across the region. It's worth to note that in 2019, for APAC and EMEA, the average day from order to shipment is slightly longer comparing to LATAM and North America. However, starting from 2020, the logistic efficiency seemed to be normalized across all the 4 regions. 
+On average, orders take 7.51 days from purchase to delivery—2.01 days for processing and 5.5 days for shipping. Regional variations are minimal, especially in the shipment-to-delivery phase. Notably, in 2019, APAC and EMEA experienced slightly longer order-to-shipment times compared to LATAM and North America; however, from 2020 onward, logistic efficiency has normalized across all four regions.
 
 ![Logistic Efficiency per Region from 2019 to 2022  ](https://github.com/user-attachments/assets/6b1a31c8-2b25-4179-bb91-6e327fe05eea)
 
 
 ### Refund Rate 
-Across 2019 to 2021, the laptops have higher refund rate, which might due to the nature and the price of the product. The refund rate decreased significantly in 2021 compared to 2019 and 2020; later in 2022, there is no data regarding refunds. 
+Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. However, no refund data is available for 2022, leaving room for two interpretations: either improvements in product information and logistics have minimized customer regret, or the refund data for 2022 is simply missing.
 
-Two explanations are possible. 
-1. The information and the logistics improved significantly so that customers no longer regret their purchases at all.
-2. The refund data is missing for 2022. 
-
-Note that there is no refund for Bose Headphones across the 4 years. It's worth to understand what factors contribute to such a good result. 
+Additionally, it’s worth noting that Bose Headphones recorded zero refunds across all four years. This exceptional performance invites further investigation into the factors driving such positive results.
 
 ![Refund Count per Product from 2019 to 2022](https://github.com/user-attachments/assets/ae5c142e-2b13-49c5-b6e0-51ea5fdc9dcc)
 
