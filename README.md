@@ -4,7 +4,7 @@ Founded in 2018, TechNova is a global e-commerce company specializing in electro
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
 
 ## Executive Summary
-[TechNova’s sales peak in Nov-Dec but decline post-holidays. APAC shows premium potential with the highest AOV, while logistics inefficiencies in APAC & EMEA need optimization. High-value products and social media-driven sales drive the most refunds, despite social meida has the highest conversion rate, implying potential impulsive purchasing. The loyalty program fails to drive retention, with 99.53% of members making only one purchase. As returning customers generate higher average order value, there is a need to change loyalty program policy to increase returning customers. In addition, marketing should focus on social media (higher conversion rate) and affiliate program, which generates highest average order value. ]
+TechNova’s analysis shows that although repeat customers—just 5% of 92,527—drive significantly higher order values, current strategies, including the loyalty program and tracking of unattributed sales, are not effectively fostering long-term engagement. The major action step is to increase customer retention efforts by changing to a new loyalty program to encourage repeat purchases and implementing robust attribution tracking, ensuring sustainable revenue growth across all channels.
 
 ## Deep Dive Insights
 ### Overview
@@ -111,9 +111,8 @@ Unknown sources have minimal impact. Improving attribution tracking and optimizi
 ## Recommendations
 
 ### Refund 
-- Improve product descriptions and quality control for high-value products to lower return rates and investigate high laptop return rates, especially in NA and APAC, and adjust policies or support.
-- Refine social media marketing to reduce impulse purchases and misinformation.
-- Promote mobile app purchases, as they result in fewer refunds.
+- Investigate the refund rate in 2022 to make sure that the positive result is not due to missing data.
+- Understand what are the factors that make Bose Headphones perform well and apply the findings to all the other products. 
 
 ### Loyalty Program
 Instead of rewarding new members with discounts, introduce tier-based loyalty program to enhance customer loyalty. 
@@ -121,13 +120,20 @@ Instead of rewarding new members with discounts, introduce tier-based loyalty pr
 - **Gold Members**: Earn cashback or discounts on their 3rd+ purchase.
 - **Platinum Members**: Get exclusive early access to new products.
 
+### Boost Customer Retention
+With only 5% of customers returning, it's vital to implement strategies that encourage repeat purchases. Consider targeted retention campaigns, loyalty program enhancements, or personalized post-purchase follow-ups to convert new customers into long-term buyers, thereby leveraging the significantly higher average order value seen with returning customers.
+
 ### Marketing Channel
-1. Boost Retention – Repeat buyers (5.3%) spend 1.7x more. Use offers and retargeting to increase repeat purchases.
-2. Improve Direct Traffic Conversions – Despite highest sales ($17.48M), conversion is low (2.53%). Optimize UX, checkout, and retargeting.
-3. Enhance Tracking – $7.26M in unattributed sales. Use UTM tags & CRM integration for better insights.
-4. Leverage Affiliates – Highest AOV ($317.85) but low volume. Expand partnerships and offer better incentives.
-5. Optimize Email & Social Media – Email (10.69% conversion) needs better automation. Social media (68.92% conversion) needs urgency-driven promotions.
-6. Speed Up First Purchases – Shorten 47+ day lag for affiliate & social media buyers with discounts and flash sales.
+1. Enhance Attribution Tracking
+- The unattributed (null) sales category accounts for substantial revenue. Investing in improved tracking and analytics can help identify the origin of these sales, enabling more informed marketing investments and resource allocation.
+
+2. Leverage High-Performing Channels:
+- **Direct Marketing:** Maintain and optimize this channel as it generates the highest total sales and order volume.
+- **Affiliate Marketing:** Although order volume is lower, its high AOV indicates quality transactions. Scaling this channel could further boost revenue without sacrificing order value.
+
+3. Revise Underperforming Channels:
+- **Email Marketing:** Despite driving a decent number of orders, its low AOV suggests a need for revisiting messaging, segmentation, or promotional strategies to increase the value per transaction.  
+- **Social Media:** While contributing fewer orders, efforts could be made to improve engagement and conversion quality.
 
 ##### NOTE
 - For every column, less than 3% is null. Thus, the impact is negligible.
