@@ -31,11 +31,10 @@ TechNova’s total orders are primarily concentrated in English-speaking countri
 
 At a regional level:
 - North America (NA) has the highest total orders, followed by EMEA, APAC, and LATAM.
-- APAC has the highest average order value (AOV), surpassing North America, EMEA, and LATAM.
+- EMEA has the highest average order value (AOV), surpassing APAC, North America and LATAM.
   
 ![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
-This indicates strong demand from English-speaking markets, but higher spending per order in APAC suggests potential for strategic growth in that region.
 
 ### Logistics 
 Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, APAC and EMEA have the longest total delivery times (7.59 days), while LATAM (7.44 days) and NA (7.48 days) are slightly faster. LATAM processes orders the fastest (1.93 days), while APAC is the slowest (2.12 days). Shipping times are similar across regions, with APAC being slightly faster (5.48 days) and EMEA/NA the slowest (5.51 days). Optimizing order processing and shipping efficiencies in APAC and EMEA could reduce overall delivery times.
