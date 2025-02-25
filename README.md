@@ -77,9 +77,10 @@ Among the 92,527 customers, only 4,902 are repeating customers while the average
 
 The direct marketing channel is the most effective, generating the highest total sales ($17.48M) and the most orders (62,854) with a strong average order value (AOV) of $278.06. The null (unattributed) category follows with significant sales ($7.26M) and a comparable AOV ($256.94), suggesting a need to track its origin. Affiliate marketing has the highest AOV ($317.85), indicating high-value transactions despite lower order volume (2,102). Email marketing drives a decent number of orders (13,832) but has a relatively low AOV ($177.79), while social media contributes fewer orders (1,012) but maintains a moderate AOV ($234.64). Unknown sources have minimal impact. Improving attribution tracking and optimizing lower-performing channels could enhance overall effectiveness.
 
-Social media performs well with a 68.92% conversion rate, suggesting strong engagement, though it takes the longest for users to make their first purchase (49.14 days). Affiliate marketing also has a high conversion rate (53.74%) but a slightly shorter time to first purchase (47.79 days). The null category has moderate performance (45.16% conversion rate) but slow conversion (52.32 days). Email marketing drives a large number of signups (13,356) but has a much lower 10.69% conversion rate, indicating potential drop-offs. Direct traffic, despite the highest number of signups (57,722), has the lowest conversion rate (2.53%), suggesting that while many users visit directly, few convert, or they take a different path to conversion.
+The conversion rate per market channel does not vary a lot across the years. However, affiliate program performed the best (100%) compared to the social meida (ranked the 2nd), direct, and email. In 2020, all the marketing channels perform worse than the other 4 years, which might be relate to the chaos caused by the pandemic when marketing activities might reduced. 
 
-![Marketing Channel](https://github.com/user-attachments/assets/789826ed-9972-4f52-8765-dfe5e5f1fa48)
+![Conversion rate per marketing channel](https://github.com/user-attachments/assets/5551cb81-88ef-41b7-95f4-a438465ad097)
+
 
 ## Recommendations
 
