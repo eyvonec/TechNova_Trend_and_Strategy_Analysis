@@ -41,7 +41,7 @@ On average, orders take 7.51 days from purchase to delivery—2.01 days for proc
 
 
 ### Refund Rate 
-Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. However, no refund data is available for 2022, leaving room for two interpretations: either improvements in product information and logistics have minimized customer regret, or the refund data for 2022 is simply missing.
+Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. For instance, for MacBooks and ThinkPad Laptops, the refund rate in 2019 and 2020 were over 16% while in 2021 the refund rate for all products dropped to less than 10%. However, no refund data is available for 2022, leaving room for two interpretations: either improvements in product information and logistics have minimized customer regret, or the refund data for 2022 is simply missing.
 
 Additionally, it’s worth noting that Bose Headphones recorded zero refunds across all four years. This exceptional performance invites further investigation into the factors driving such positive results.
 
@@ -51,26 +51,60 @@ Additionally, it’s worth noting that Bose Headphones recorded zero refunds acr
 
 
 ### Loyalty Program
-Among the 32,501 loyalty members, the customer lifetime value (CLV), which evaluates how valuable a customer is over time , is significantly lower than non-members, averaging only $242.75, compared to $313.37 for non-members. This indicates that loyalty members do not contribute as much long-term value as expected.
+Among the 32,501 loyalty members, the average customer lifetime value (CLV) is only $242.75—significantly lower than the $313.37 observed for non-members. This disparity suggests that loyalty members are not delivering the long-term value expected.
 
-Additionally, loyalty members have fewer total orders (32,789) and average order value ($240.62) compared to non-members (48,071; $274.66). Members also exhibit a refund rate of 6.39%, which is higher than non-members (4.16%).  Across 2019 to 2021 (2022 didn't have any refund), all the members had higher refund rate, especially in 2020, members had 13% refund while non-members only had 7%, indicating that a positive correlation between loyalty program and refund rate. 
+Key observations include:
 
-Surprisingly, the customers who purchases headphones and webcams tend to join the loyalty program (more than 55% join rate), especially in 2022 customers who bought Bose Headphones all join the loyalty program. 
+- **Order Volume & Value:**  
+  - Loyalty members placed 32,789 total orders with an average order value of $240.62, compared to 48,071 orders and an average order value of $274.66 for non-members.
 
-The most concerning trend is that 99.53% of loyalty members make only a single purchase while the repeat purchase rate for non-members is 23x higher (10.67%), comparing to 0.47% for members. The purchase frequency calculated by averaging the total orders is higher for non-members (1.14), comparing to 1.01 for members. This suggests that many customers may be joining the loyalty program solely to take advantage of some one-time offer like discounts, without remaining engaged with the company.
+- **Refund Rates:**  
+  - Members exhibit a refund rate of 6.39%, notably higher than the 4.16% for non-members.  
+  - This trend persists across 2019 to 2021—with 2020 being particularly striking, as members had a 13% refund rate versus 7% for non-members—suggesting a correlation between membership and increased refunds.
 
-Based on the analysis, TechNova’s loyalty program is failing to drive long-term customer engagement or increase revenue. Instead of encouraging repeat purchases, it appears to attract deal-seekers who exploit one-time benefits without fostering sustained customer loyalty.
+- **Product-Specific Trends:**  
+  - A majority of customers purchasing headphones and webcams (over 55%) join the loyalty program.  
+  - In 2022, every customer who bought Bose Headphones became a loyalty member.
+
+- **Repeat Purchase Behavior:**  
+  - A staggering 99.53% of loyalty members made only a single purchase, while non-members exhibited a 10.67% repeat purchase rate.  
+  - The average purchase frequency is 1.01 for members compared to 1.14 for non-members.
+
+These findings indicate that many customers may be joining the loyalty program solely to access one-time offers like discounts, without engaging in repeat purchases or long-term relationships with TechNova.
+
+In summary, the current loyalty program appears to be failing in its goal of driving sustained customer engagement and revenue growth, instead attracting deal-seekers who do not contribute significant long-term value.
 
 ![Repeat Purchase Rate  ](https://github.com/user-attachments/assets/7ad13329-5a73-4e83-b717-9200a63f8b32)
 
 
 ### Marketing Channel
-Among the 92,527 customers, only 4,902 are repeating customers while the average order value by returning customers ($422.34) is 1.7x higher than new customers ($250.16). 
+Among 92,527 customers, only 4,902 are repeat buyers, yet returning customers boast an average order value (AOV) of $422—approximately 1.7 times higher than the $250 recorded for new customers.
 
-The direct marketing channel is the most effective, generating the highest total sales ($17.48M) and the most orders (62,854) with a strong average order value (AOV) of $278.06. The null (unattributed) category follows with significant sales ($7.26M) and a comparable AOV ($256.94), suggesting a need to track its origin. Affiliate marketing has the highest AOV ($317.85), indicating high-value transactions despite lower order volume (2,102). Email marketing drives a decent number of orders (13,832) but has a relatively low AOV ($177.79), while social media contributes fewer orders (1,012) but maintains a moderate AOV ($234.64). Unknown sources have minimal impact. Improving attribution tracking and optimizing lower-performing channels could enhance overall effectiveness.
+**Marketing Channel Performance:**
 
-The conversion rate per market channel does not vary a lot across the years. However, affiliate program performed the best (100%) compared to the social meida (ranked the 2nd), direct, and email. In 2020, all the marketing channels perform worse than the other 4 years, which might be relate to the chaos caused by the pandemic when marketing activities might reduced. 
+- **Direct Marketing:**  
+  Generates the highest total sales of $17.48M and 62,854 orders, with a strong AOV of $278.
 
+- **Unattributed (Null) Category:**  
+  Accounts for significant sales of $7.26M and an AOV of $256, highlighting a need for better tracking of its origins.
+
+- **Affiliate Marketing:**  
+  Despite a lower order volume of 2,102, it achieves the highest AOV at $317, indicating high-value transactions.
+
+- **Email Marketing:**  
+  Drives a healthy number of orders (13,832) but with a relatively low AOV of $177.
+
+- **Social Media:**  
+  Contributes fewer orders (1,012) while maintaining a moderate AOV of $234.
+
+Unknown sources have minimal impact. Improving attribution tracking and optimizing lower-performing channels could enhance overall effectiveness.
+
+**Conversion Rate Insights:**
+
+- Conversion rates across channels have remained relatively stable over the years (over 99%).
+- The affiliate program stands out with a 100% conversion rate, outperforming social media, direct marketing, and email.
+- In 2020, all channels experienced a dip in performance—likely due to pandemic-related disruptions in marketing activities.
+  
 ![Conversion rate per marketing channel](https://github.com/user-attachments/assets/5551cb81-88ef-41b7-95f4-a438465ad097)
 
 
