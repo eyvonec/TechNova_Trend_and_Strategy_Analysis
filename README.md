@@ -69,7 +69,7 @@ The most concerning trend is that 99.53% of loyalty members make only a single p
 
 Based on the analysis, TechNova’s loyalty program is failing to drive long-term customer engagement or increase revenue. Instead of encouraging repeat purchases, it appears to attract deal-seekers who exploit one-time benefits without fostering sustained customer loyalty.
 
-
+![Repeat Purchase Rate  ](https://github.com/user-attachments/assets/7ad13329-5a73-4e83-b717-9200a63f8b32)
 
 
 ### Marketing Channel
