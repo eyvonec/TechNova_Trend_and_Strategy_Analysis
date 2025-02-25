@@ -32,6 +32,8 @@ TechNova’s total orders are primarily concentrated in English-speaking countri
 At a regional level:
 - North America (NA) has the highest total orders, followed by EMEA, APAC, and LATAM.
 - EMEA has the highest average order value (AOV), surpassing APAC, North America and LATAM.
+
+While the majority of the customers come from North America, TechNova should consider expanding more to EMEA market to convert the high-value customers. 
   
 ![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
