@@ -39,9 +39,9 @@ While the majority of the customers come from North America, TechNova should con
 
 
 ### Logistics 
-Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, APAC and EMEA have the longest total delivery times (7.59 days), while LATAM (7.44 days) and NA (7.48 days) are slightly faster. LATAM processes orders the fastest (1.93 days), while APAC is the slowest (2.12 days). Shipping times are similar across regions, with APAC being slightly faster (5.48 days) and EMEA/NA the slowest (5.51 days). Optimizing order processing and shipping efficiencies in APAC and EMEA could reduce overall delivery times.
+Orders take an average of 7.51 days from purchase to delivery, with order processing taking 2.01 days and shipping taking 5.5 days. Regionally, there is not much difference, especially the avergae day of shipmnet to delivery is almost the same across the region. It's worth to note that in 2019, for APAC and EMEA, the average day from order to shipment is slightly longer comparing to LATAM and North America. However, starting from 2020, the logistic efficiency seemed to be normalized across all the 4 regions. 
 
-![Logistics Efficiency](https://github.com/user-attachments/assets/d33632e4-afc1-4f27-9b1b-1188e978a01f)
+![Logistic Efficiency per Region from 2019 to 2022  ](https://github.com/user-attachments/assets/6b1a31c8-2b25-4179-bb91-6e327fe05eea)
 
 
 ### Refund Rate 
