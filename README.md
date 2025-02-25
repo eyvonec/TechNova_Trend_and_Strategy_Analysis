@@ -45,13 +45,17 @@ Orders take an average of 7.51 days from purchase to delivery, with order proces
 
 
 ### Refund Rate 
-Orders above $150 (6.52%) are returned the most, while low-value orders ($0-$50) have the lowest refund rate (1.55%). Breaking down the refund rate by product, the highest return rates are from the two laptops ThinkPad (11.73%) and MacBook Air (11.43%), where North America sees the highest laptop refunds, followed by APAC and LATAM. North America has the highest refund rate, followed by APAC, EMEA, and LATAM. LATAM (4.15%) has the lowest refund rate, possibly due to fewer high-value purchases, while APAC (4.95%) and EMEA (4.73%) are closer to the average.
+Across 2019 to 2021, the laptops have higher refund rate, which might due to the nature and the price of the product. The refund rate decreased significantly in 2021 compared to 2019 and 2020; later in 2022, there is no data regarding refunds. 
 
-Unknown sources (11.76%) and social media (7.51%) have the highest refund rates, indicating poor targeting or impulse buying, while email (4.81%) and affiliate (5.00%) perform better, indicating more informed buying behavior.
+Two explanations are possible. 
+1. The information and the logistics improved significantly so that customers no longer regret their purchases at all.
+2. The refund data is missing for 2022. 
 
-Website (5.58%) has a higher refund rate than mobile app (2.05%), suggesting stronger purchase commitment via apps.
+Note that there is no refund for Bose Headphones across the 4 years. It's worth to understand what factors contribute to such a good result. 
 
-![Refund Rate Order Value](https://github.com/user-attachments/assets/b5ebd21d-e9df-440c-a595-832029155a44)
+![Refund Count per Product from 2019 to 2022](https://github.com/user-attachments/assets/ae5c142e-2b13-49c5-b6e0-51ea5fdc9dcc)
+
+![Refund Rate per Product from 2019 to 2022 ](https://github.com/user-attachments/assets/c6271eeb-05d3-42db-90bd-0072717bd8ad)
 
 
 ### Loyalty Program
