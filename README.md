@@ -78,13 +78,14 @@ The crossover in total sales around March 2021 is particularly telling: loyalty 
 
 In summary, loyalty’s lower AOV is offset by higher order volume, leading to a notable sales advantage from March 2021 onward. However, to sustain this performance, investigating membership growth and engagement will be essential—especially in light of the join-rate decline after mid-2021.
 
-![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
 ![loyalty sale](https://github.com/user-attachments/assets/68b4fd48-d125-47a1-821b-770a2e411a6b)
 
 ![loyalty order count](https://github.com/user-attachments/assets/ca8a5444-7d44-4539-89a5-448406640a29)
 
 ![loyalty avg](https://github.com/user-attachments/assets/3f2bf6bc-6612-420c-8ab0-816cb7a7fdbe)
+
+![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
 
 
