@@ -81,9 +81,9 @@ In summary, loyalty’s lower AOV is offset by higher order volume, leading to a
 
 ![loyalty sale](https://github.com/user-attachments/assets/68b4fd48-d125-47a1-821b-770a2e411a6b)
 
-![loyalty order count](https://github.com/user-attachments/assets/ca8a5444-7d44-4539-89a5-448406640a29)
-
 ![loyalty avg](https://github.com/user-attachments/assets/3f2bf6bc-6612-420c-8ab0-816cb7a7fdbe)
+
+![loyalty order count](https://github.com/user-attachments/assets/ca8a5444-7d44-4539-89a5-448406640a29)
 
 ![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
