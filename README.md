@@ -51,11 +51,11 @@ The area graph on the % of the number of refunds across the months shows a posit
 
 ![% Refund Count per Product](https://github.com/user-attachments/assets/861568f5-252e-4844-937d-e5acbcb77e6d)
 
-Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. For instance, for MacBooks and ThinkPad Laptops, the refund rate in 2019 and 2020 were over 16% while in 2021 the refund rate for all products dropped to less than 10%. 
+In general, the refund rates for MacBooks and ThinkPad Laptops are higher (overall ~20%) comparing to the other products throughout 2019 to 2021 (there is no data from Aug 2021 onwards). On the other hand, iPhones have the highest fluctuation and several notable spikes in refund rates. For instance, in Feb and May 2019, iPhones have 33% refund rate. In Aug 2020 and Mar 2021, the refund rates for iPhones are over 40%. 
 
 Additionally, it’s worth noting that Bose Headphones recorded zero refunds across all four years. This exceptional performance invites further investigation into the factors driving such positive results.
 
-![Refund Rate per Product from 2019 to 2022 ](https://github.com/user-attachments/assets/c6271eeb-05d3-42db-90bd-0072717bd8ad)
+![Refund Rate Area](https://github.com/user-attachments/assets/13bc69c0-171d-4be7-967b-d1efaf88f425)
 
 
 ### Loyalty Program
