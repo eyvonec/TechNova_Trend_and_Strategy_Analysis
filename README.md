@@ -43,6 +43,7 @@ The huge number of total orders of Apple Airpods contributed about 30% of the to
 
 ![% total sales producti](https://github.com/user-attachments/assets/3987d719-a923-469d-a811-8983ed2f81cb)
 
+It's also worth noting that in 2020, when the pandemic began, there was an increase for MacBooks. 
 
 ### Refund Rate 
 Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. For instance, for MacBooks and ThinkPad Laptops, the refund rate in 2019 and 2020 were over 16% while in 2021 the refund rate for all products dropped to less than 10%. However, no refund data is available for 2022, leaving room for two interpretations: either improvements in product information and logistics have minimized customer regret, or the refund data for 2022 is simply missing.
