@@ -59,30 +59,37 @@ Additionally, it’s worth noting that Bose Headphones recorded zero refunds acr
 
 
 ### Loyalty Program
-Among the 32,501 loyalty members, the average customer lifetime value (CLV) is only $242.75—significantly lower than the $313.37 observed for non-members. This disparity suggests that loyalty members are not delivering the long-term value expected.
 
-Key observations include:
+#### Total Order Count & Total Sales:
+Non-loyalty typically has a higher total order count overall, but an important crossover happens in March 2021, where loyalty’s total sales catch up and then slightly surpass non-loyalty.
+This suggests that although non-loyalty customers place more orders on average, the loyalty segment’s purchase volume and/or frequency grew sufficiently to drive higher overall sales from March 2021 through mid/late 2022. Likely factors include targeted promotions, improved loyalty benefits, or a successful acquisition campaign that converted existing shoppers into loyal program members.
 
-- **Order Volume & Value:**  
-  - Loyalty members placed 32,789 total orders with an average order value of $240.62, compared to 48,071 orders and an average order value of $274.66 for non-members.
+#### Average Order Value (AOV):
+For most of the observed period (2019–2022), non-loyalty customers exhibit a higher AOV than loyalty customers. This could mean that while non-loyalty shoppers spend more per transaction, they might be less frequent purchasers. An exception emerges around early 2021 onward, where loyalty AOV occasionally narrows the gap or briefly surpasses non-loyalty AOV. This fluctuation hints that either loyalty customers were encouraged to buy higher-priced items or that promotional strategies specifically boosted their spending during those months.
 
-- **Refund Rates:**  
-  - Members exhibit a refund rate of 6.39%, notably higher than the 4.16% for non-members.  
-  - This trend persists across 2019 to 2021—with 2020 being particularly striking, as members had a 13% refund rate versus 7% for non-members—suggesting a correlation between membership and increased refunds.
+#### Loyalty Join Rate by Product:
+From 2019 to mid-2021, the loyalty join rate for key products (e.g., gaming monitors, Apple devices, and Samsung accessories) showed a clear upward trend. This rise indicates successful recruitment efforts or appealing loyalty perks during that timeframe.
 
-- **Product-Specific Trends:**  
-  - A majority of customers purchasing headphones and webcams (over 55%) join the loyalty program.  
-  - In 2022, every customer who bought Bose Headphones became a loyalty member.
+Post-mid-2021, a downward trend in join rates emerges, suggesting possible market saturation, waning promotional impact, or program fatigue. This decline might call for revamping the loyalty program or introducing fresh incentives to maintain and grow membership.
 
-- **Repeat Purchase Behavior:**  
-  - A staggering 99.53% of loyalty members made only a single purchase, while non-members exhibited a 10.67% repeat purchase rate.  
-  - The average purchase frequency is 1.01 for members compared to 1.14 for non-members.
+#### Overall Program Implications:
+The data points to growing importance of loyalty customers—they may spend less per order on average but still generate significant total revenue due to increased frequency or volume.
+The crossover in total sales around March 2021 is particularly telling: loyalty became a critical revenue driver. Maintaining that momentum may require addressing the recent drop in join rates, whether through new tiers, personalized offers, or enhanced rewards.
 
-These findings indicate that many customers may be joining the loyalty program solely to access one-time offers like discounts, without engaging in repeat purchases or long-term relationships with TechNova.
+In summary, loyalty’s lower AOV is offset by higher order volume, leading to a notable sales advantage from March 2021 onward. However, to sustain this performance, investigating membership growth and engagement will be essential—especially in light of the join-rate decline after mid-2021.
 
-In summary, the current loyalty program appears to be failing in its goal of driving sustained customer engagement and revenue growth, instead attracting deal-seekers who do not contribute significant long-term value.
+![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
-![Repeat Purchase Rate  ](https://github.com/user-attachments/assets/7ad13329-5a73-4e83-b717-9200a63f8b32)
+![loyalty sale](https://github.com/user-attachments/assets/68b4fd48-d125-47a1-821b-770a2e411a6b)
+
+![loyalty order count](https://github.com/user-attachments/assets/ca8a5444-7d44-4539-89a5-448406640a29)
+
+![loyalty avg](https://github.com/user-attachments/assets/3f2bf6bc-6612-420c-8ab0-816cb7a7fdbe)
+
+
+
+
+
 
 
 ### Marketing Channel
