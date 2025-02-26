@@ -34,10 +34,8 @@ Regionally, North America records the highest total orders, followed by EMEA, AP
 ![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
 
-### Logistics 
-On average, orders take 7.51 days from purchase to delivery—2.01 days for processing and 5.5 days for shipping. Regional variations are minimal, especially in the shipment-to-delivery phase. Notably, in 2019, APAC and EMEA experienced slightly longer order-to-shipment times compared to LATAM and North America; however, from 2020 onward, logistic efficiency has normalized across all four regions.
-
-![Logistic Efficiency per Region from 2019 to 2022  ](https://github.com/user-attachments/assets/6b1a31c8-2b25-4179-bb91-6e327fe05eea)
+### Star Products 
+Among all the products, Apple Airpods are the most popular from 2019 to 2022 contributed to 45% of the total order counts, following by monitors and cables, which occup
 
 
 ### Refund Rate 
