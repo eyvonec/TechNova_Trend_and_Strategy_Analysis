@@ -39,18 +39,21 @@ Among all the products, Apple Airpods are the most popular from 2019 to 2022 con
 
 ![%Order Counts Product](https://github.com/user-attachments/assets/afcc5853-46cc-4a5a-a5b2-1bd629ff2fae)
 
-The huge number of total orders of Apple Airpods contributed about 30% of the total sales throughout the years, which is ranked at the 2nd place in terms of the % of the total sales. The gaming monitors contributed the most (about 40%) in terms of the total sales across the years. Both MacBooks (~20%) and ThinkPad laptops (~10%) ranked as 3rd and 4th in terms of the % of the total sales while both items only contributed less than 5% in terms of the total order counts. 
+The huge number of total orders of Apple Airpods contributed about 30% of the total sales throughout the years, which is ranked at the 2nd place in terms of the % of the total sales. The gaming monitors contributed the most (about 40%) in terms of the total sales across the years. Both MacBooks (~20%) and ThinkPad laptops (~10%) ranked as 3rd and 4th in terms of the % of the total sales while both items only contributed less than 5% in terms of the total order counts. It's also worth noting that in 2020, when the pandemic began, there was an increase for MacBooks. 
 
 ![% total sales producti](https://github.com/user-attachments/assets/3987d719-a923-469d-a811-8983ed2f81cb)
 
-It's also worth noting that in 2020, when the pandemic began, there was an increase for MacBooks. 
+Apple Airpods and gaming monitors are the first and second contributors to the sales of TechNova. 
+
 
 ### Refund Rate 
-Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. For instance, for MacBooks and ThinkPad Laptops, the refund rate in 2019 and 2020 were over 16% while in 2021 the refund rate for all products dropped to less than 10%. However, no refund data is available for 2022, leaving room for two interpretations: either improvements in product information and logistics have minimized customer regret, or the refund data for 2022 is simply missing.
+The area graph on the % of the number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. 
+
+![% Refund Count per Product](https://github.com/user-attachments/assets/861568f5-252e-4844-937d-e5acbcb77e6d)
+
+Between 2019 and 2021, laptops experienced a notably higher refund rate—likely due to their nature and price point. Interestingly, 2021 saw a significant drop in refunds compared to the previous two years. For instance, for MacBooks and ThinkPad Laptops, the refund rate in 2019 and 2020 were over 16% while in 2021 the refund rate for all products dropped to less than 10%. 
 
 Additionally, it’s worth noting that Bose Headphones recorded zero refunds across all four years. This exceptional performance invites further investigation into the factors driving such positive results.
-
-![Refund Count per Product from 2019 to 2022](https://github.com/user-attachments/assets/ae5c142e-2b13-49c5-b6e0-51ea5fdc9dcc)
 
 ![Refund Rate per Product from 2019 to 2022 ](https://github.com/user-attachments/assets/c6271eeb-05d3-42db-90bd-0072717bd8ad)
 
