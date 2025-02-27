@@ -4,12 +4,9 @@ Founded in 2018, TechNova is a global e-commerce company specializing in electro
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
 
 ## Executive Summary
-TechNova’s analysis shows that although repeat customers—just 5% of 92,527—drive significantly higher order values, current strategies, including the loyalty program and tracking of unattributed sales, are not effectively fostering long-term engagement. The major action step is to increase customer retention efforts by changing to a new loyalty program to encourage repeat purchases and implementing robust attribution tracking, ensuring sustainable revenue growth across all channels.
+Between 2019 and 2022, TechNova recorded **108K orders and $28M in sales** across 193 countries, with **Apple AirPods and gaming monitors** as top revenue drivers. A **pandemic-driven surge** in 2020 led to strong growth, but **declining sales in 2021-2022** highlight shifting consumer behavior, post-pandemic saturation, and economic pressures. **Key recommendations** include optimizing product strategies, **expanding into high-value EMEA markets**, and refining **marketing efforts**—especially via **affiliates and social media**. Additionally, improving **customer experience** and addressing **refund trends** will drive **sustained growth**. 
 
 ## Deep Dive Insights
-### Overview
-Between 2019 and 2022, the dataset records 108K orders and $28M in sales. TechNova serves customers from 193 countries and offers a portfolio of 8 electronic product categories, including laptops, monitors, and headphones. 
-
 ### Trend Analysis
 In March 2020, a pronounced spike suggests a pandemic-driven surge in demand—particularly for items like monitors, headphones, and laptops—while a significant dip in October 2022 may reflect market shifts or economic pressures.
 
@@ -99,32 +96,26 @@ Regarding the effectiveness of each marketing channel to products, the affiliate
 
 ![% of order per product per mc](https://github.com/user-attachments/assets/a6ce941d-f538-4b69-9d17-8bedf64247f2)
 
-## Recommendations
+## Recommendations 
 
-### Refund 
-- Investigate the refund rate in 2022 to make sure that the positive result is not due to missing data.
-- Understand what are the factors that make Bose Headphones perform well and apply the findings to all the other products. 
+### **1. Optimize Product Strategy**  
+- Focus on **top sellers** (AirPods, gaming monitors) and bundle accessories.  
+- Address **high refund rates** for MacBooks, ThinkPads, and iPhones.  
+- Leverage **Bose Headphones’ zero refunds** to improve other products.  
 
-### Loyalty Program
-Instead of rewarding new members with discounts, introduce tier-based loyalty program to enhance customer loyalty. 
-- **Basic Members**: Get free shipping after 2 purchases.
-- **Gold Members**: Earn cashback or discounts on their 3rd+ purchase.
-- **Platinum Members**: Get exclusive early access to new products.
+### **2. Expand in High-Value Markets**  
+- **Grow EMEA presence** (highest AOV) through localized promotions.  
+- **Strengthen in top markets** (U.S., UK, Canada) with targeted campaigns.  
 
-### Boost Customer Retention
-With only 5% of customers returning, it's vital to implement strategies that encourage repeat purchases. Consider targeted retention campaigns, loyalty program enhancements, or personalized post-purchase follow-ups to convert new customers into long-term buyers, thereby leveraging the significantly higher average order value seen with returning customers.
+### **3. Optimize Marketing for ROI**  
+- **Scale affiliate marketing** (35% of gaming monitor sales).  
+- **Leverage social media** for product variety.  
+- **Enhance email marketing**, especially for Samsung Webcams.  
 
-### Marketing Channel
-1. Enhance Attribution Tracking
-- The unattributed (null) sales category accounts for substantial revenue. Investing in improved tracking and analytics can help identify the origin of these sales, enabling more informed marketing investments and resource allocation.
-
-2. Leverage High-Performing Channels:
-- **Direct Marketing:** Maintain and optimize this channel as it generates the highest total sales and order volume.
-- **Affiliate Marketing:** Although order volume is lower, its high AOV indicates quality transactions. Scaling this channel could further boost revenue without sacrificing order value.
-
-3. Revise Underperforming Channels:
-- **Email Marketing:** Despite driving a decent number of orders, its low AOV suggests a need for revisiting messaging, segmentation, or promotional strategies to increase the value per transaction.  
-- **Social Media:** While contributing fewer orders, efforts could be made to improve engagement and conversion quality.
+#### **4. Reduce Refunds & Improve Customer Experience**  
+- Fix **data gaps** (missing refund data post-2021).  
+- Investigate **iPhone refund spikes** (33-40%).  
+- Improve **warranty & customer support** for high-return items.  
 
 ##### NOTE
 - For every column, less than 3% is null. Thus, the impact is negligible.
