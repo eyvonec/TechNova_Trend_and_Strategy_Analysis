@@ -88,41 +88,16 @@ In summary, loyalty’s lower AOV is offset by higher order volume, leading to a
 ![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
 
-
-
-
-
-
 ### Marketing Channel
-Among 92,527 customers, only 4,902 are repeat buyers, yet returning customers boast an average order value (AOV) of $422—approximately 1.7 times higher than the $250 recorded for new customers.
+The direct method seems to be the most effective and contributes around 80% of the total sales and total order counts throughout the years, following by email, which contributes around 12% total sales and 17% total counts. 
 
-**Marketing Channel Performance:**
+![% Total Sales per MC](https://github.com/user-attachments/assets/ef84049d-c129-4031-a2c2-d0bc20c148ea)
 
-- **Direct Marketing:**  
-  Generates the highest total sales of $17.48M and 62,854 orders, with a strong AOV of $278.
+![% of order count per MC](https://github.com/user-attachments/assets/fa4176ff-d275-4228-8d44-bde9451c157c)
 
-- **Unattributed (Null) Category:**  
-  Accounts for significant sales of $7.26M and an AOV of $256, highlighting a need for better tracking of its origins.
+Regarding the effectiveness of each marketing channel to products, the affiliate program seems to work extremely well for gaming monitors, 35% of the total order counts. The effectiveness of affiliate on products is also relevantly even. Considering the total orders for Apple Airpods are the highest regardless of any marketing channel, affiliate can be viewed as the most effective way of marketing. Social media shall be ranked as the 2nd in terms of effectiveness as more types of product orders are coming through it. In addition, emails worked surprisingly well with Samsung Webcam (15% of total order count). 
 
-- **Affiliate Marketing:**  
-  Despite a lower order volume of 2,102, it achieves the highest AOV at $317, indicating high-value transactions.
-
-- **Email Marketing:**  
-  Drives a healthy number of orders (13,832) but with a relatively low AOV of $177.
-
-- **Social Media:**  
-  Contributes fewer orders (1,012) while maintaining a moderate AOV of $234.
-
-Unknown sources have minimal impact. Improving attribution tracking and optimizing lower-performing channels could enhance overall effectiveness.
-
-**Conversion Rate Insights:**
-
-- Conversion rates across channels have remained relatively stable over the years (over 99%).
-- The affiliate program stands out with a 100% conversion rate, outperforming social media, direct marketing, and email.
-- In 2020, all channels experienced a dip in performance—likely due to pandemic-related disruptions in marketing activities.
-  
-![Conversion rate per marketing channel](https://github.com/user-attachments/assets/5551cb81-88ef-41b7-95f4-a438465ad097)
-
+![% of order per product per mc](https://github.com/user-attachments/assets/a6ce941d-f538-4b69-9d17-8bedf64247f2)
 
 ## Recommendations
 
