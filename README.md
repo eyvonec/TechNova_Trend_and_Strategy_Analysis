@@ -84,13 +84,10 @@ In summary, loyalty’s lower AOV is offset by higher order volume, leading to a
 ### Marketing Channel
 The direct method seems to be the most effective and contributes around 80% of the total sales and total order counts throughout the years, following by email, which contributes around 12% total sales and 17% total counts. 
 
-![% Total Sales per MC](https://github.com/user-attachments/assets/ef84049d-c129-4031-a2c2-d0bc20c148ea)
-
-![% of order count per MC](https://github.com/user-attachments/assets/fa4176ff-d275-4228-8d44-bde9451c157c)
-
 Regarding the effectiveness of each marketing channel to products, the affiliate program seems to work extremely well for gaming monitors, 35% of the total order counts. The effectiveness of affiliate on products is also relevantly even. Considering the total orders for Apple Airpods are the highest regardless of any marketing channel, affiliate can be viewed as the most effective way of marketing. Social media shall be ranked as the 2nd in terms of effectiveness as more types of product orders are coming through it. In addition, emails worked surprisingly well with Samsung Webcam (15% of total order count). 
 
-![% of order per product per mc](https://github.com/user-attachments/assets/a6ce941d-f538-4b69-9d17-8bedf64247f2)
+![Sheet 11](https://github.com/user-attachments/assets/c914c0b4-cc45-4c80-aecd-0081d8d4cdd1)
+
 
 ## Recommendations 
 
