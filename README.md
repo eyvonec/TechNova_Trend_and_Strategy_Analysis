@@ -21,6 +21,7 @@ Additionally, the data shows that 2019 and 2020 experienced more prominent growt
 
 <img src="![Sheet 2-3](https://github.com/user-attachments/assets/583bfe82-4359-46d9-b2ee-f60adfd419d3)" alt="Description" style="width:50%;"/>
 
+<img src="![Sheet 2-3](https://github.com/user-attachments/assets/583bfe82-4359-46d9-b2ee-f60adfd419d3)" alt="Description" width="500"/>
 
 
 
