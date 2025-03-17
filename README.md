@@ -8,15 +8,17 @@ Between 2019 and 2022, TechNova recorded **108K orders and $28M in sales** acros
 
 ## Deep Dive Insights
 ### Trend Analysis
-In March 2020, a pronounced spike suggests a pandemic-driven surge in demand—particularly for items like monitors, headphones, and laptops—while a significant dip in October 2022 may reflect market shifts or economic pressures.
-
-![Monthly total sales trend per product](https://github.com/user-attachments/assets/b477edb6-e7bc-49f0-a235-7fb305b31d67)
+In March 2020, a 46.2% increase order counts 50.3% increase in total sales, the highest monthly growth rates across 2019-2022, suggest pandemic-driven surge in demand, particularly for items like monitors, headphones, and laptops; while a significant dip in October 2022 by -46.88% in total order counts and -55.2% in total sales may reflect market shifts or economic pressures.
 
 Seasonal trends are evident, with November and December consistently recording the highest growth (likely due to holiday shopping) followed by a downturn in the surrounding months.
 
-Comparing total sales, order count, and average order value (AOV) reveals that sales and order counts generally correlate. However, AOV sometimes diverges, indicating periods when customers favor higher-value purchases.
+Comparing total sales, order count, and average order value (AOV) reveals that sales and order counts generally correlate, meaning that when more orders are placed, total sales tend to rise proportionally. However, AOV sometimes moves in the opposite direction, indicating shifts in customer purchasing behavior.
+
+For example, there are periods (like Janurary 2020) when customers favor higher-value purchases, leading to an increase in AOV (Jan 2020 AOV grew by 12.97%) even when order count remains stable or declines (Jan 2020 order count declined by -11.28%). Conversely, in December 2019, AOV declined by 6.71%, while order count increased by 19.08% and total sales grew by 11%. This suggests that although more orders were placed, they were for lower-priced items on average, highlighting how AOV can diverge from the overall sales trend
 
 Additionally, the data shows that 2019 and 2020 experienced more prominent growth spikes, whereas 2021 and 2022 saw more frequent declines. This shift could be attributed to factors such as post-pandemic market saturation, inflation, or the inherently less frequent nature of electronics purchases compared to essentials.
+
+
 
 ![Monthly Growth Rate 2019-2022](https://github.com/user-attachments/assets/b269e10b-dec3-460d-a5bb-73721f0f4ca6)
 
