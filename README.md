@@ -22,9 +22,10 @@ Additionally, the data shows that 2019 and 2020 experienced more prominent growt
 
 
 ### Geographic Distribution
-TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $3M USD), reflecting a global surge in demand for electronic devices.
+TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices.
 
-![Sheet 3](https://github.com/user-attachments/assets/845291a5-d4ff-4559-bd1d-051c280ab859)
+![Sheet 4 (2)](https://github.com/user-attachments/assets/236f96c0-ecfc-4326-b01e-904998090df4)
+
 
 Regionally, North America records the highest total orders, followed by EMEA, APAC, and LATAM, while EMEA boasts the highest average order value (AOV), outpacing APAC, North America, and LATAM. Given that most customers currently come from North America, TechNova should consider expanding further into the EMEA market to capture high-value clientele.
 
