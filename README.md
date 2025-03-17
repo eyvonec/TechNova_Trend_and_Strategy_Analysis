@@ -22,10 +22,13 @@ Additionally, the data shows that 2019 and 2020 experienced more prominent growt
 
 
 ### Geographic Distribution
-TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices. The main regions for TechNova's total sales are North America, followed by EMEA. TechNova should consider expanding the market to APAC, which is ranked the thrid on total sales. APAC has the highest AOV (average order value) from Feb 2020 onward most of the time, indicating a strong purchasing power and a willingness to spend more per transaction.
+TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices. 
 
 ![Sheet 4 (2)](https://github.com/user-attachments/assets/236f96c0-ecfc-4326-b01e-904998090df4)
 
+The main regions for TechNova's total sales are North America, followed by EMEA. TechNova should consider expanding the market to APAC, which is ranked the thrid on total sales. APAC has the highest AOV (average order value) from Feb 2020 onward most of the time, indicating a strong purchasing power and a willingness to spend more per transaction. LATAM performed the worst in terms of both total sales and AOV. However, there was an unusual surge in AOV from Nov. 2019 to Jan. 2020. Especially in Jan 2020, the AOV is about $400 USD, outperforming the 2nd rank, $264 USD in North America. It's also worth to note the unusual dip of LATAM AOV from Jan. to Sep. 2022, during which the AOV were barely over $200 USD. 
+
+![Sheet 6](https://github.com/user-attachments/assets/98fafc9e-758a-44e5-a187-c3c2e284828b)
 
 
 ### Star Products 
