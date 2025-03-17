@@ -46,10 +46,9 @@ The area graph on the % of the number of refunds across the months shows a posit
 
 ![Sheet 8](https://github.com/user-attachments/assets/48a283b3-dc3b-44d4-9184-90b34c95c336)
 
-In general, the refund rates for MacBooks and ThinkPad Laptops are higher (overall ~20%) comparing to the other products throughout 2019 to 2021 (there is no data from Aug 2021 onwards). On the other hand, iPhones have the highest fluctuation and several notable spikes in refund rates. For instance, in Feb and May 2019, iPhones have 33% refund rate. In Aug 2020 and Mar 2021, the refund rates for iPhones are over 40%. 
+In general, the refund rates for MacBooks and ThinkPad Laptops are higher (almost 20%) comparing to the other products throughout 2019 to 2021 (there is no data from Aug 2021 onwards). On the other hand, iPhones have the highest fluctuation and several notable spikes in refund rates. For instance, in 2019 Q2, 2020 Q3, and 2021 Q1, iPhones have refund rate about 0.2 while in 2019 Q1, 2020 Q1, and 2020 Q4, the refund rates are around 0.05. 
 
-
-![Refund Rate Area](https://github.com/user-attachments/assets/13bc69c0-171d-4be7-967b-d1efaf88f425)
+![Sheet 8 (2)](https://github.com/user-attachments/assets/eb7595f4-33ea-4f0e-a6fa-eb54247c1e12)
 
 
 ### Loyalty Program
