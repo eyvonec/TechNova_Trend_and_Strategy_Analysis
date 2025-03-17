@@ -44,7 +44,7 @@ Apple Airpods and gaming monitors are the first and second contributors to the s
 ### Refund Rate 
 The area graph on the % of the number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. 
 
-![% Refund Count per Product](https://github.com/user-attachments/assets/861568f5-252e-4844-937d-e5acbcb77e6d)
+![Sheet 8](https://github.com/user-attachments/assets/48a283b3-dc3b-44d4-9184-90b34c95c336)
 
 In general, the refund rates for MacBooks and ThinkPad Laptops are higher (overall ~20%) comparing to the other products throughout 2019 to 2021 (there is no data from Aug 2021 onwards). On the other hand, iPhones have the highest fluctuation and several notable spikes in refund rates. For instance, in Feb and May 2019, iPhones have 33% refund rate. In Aug 2020 and Mar 2021, the refund rates for iPhones are over 40%. 
 
