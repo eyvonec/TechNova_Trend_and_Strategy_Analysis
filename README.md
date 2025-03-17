@@ -42,7 +42,7 @@ Apple Airpods and gaming monitors are the first and second contributors to the s
 
 
 ### Refund Rate 
-The area graph on the % of the number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all four years. This exceptional performance invites further investigation into the factors driving such positive results.
+The number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all years. This exceptional performance invites further investigation into the factors driving such positive results.
 
 ![Sheet 8](https://github.com/user-attachments/assets/48a283b3-dc3b-44d4-9184-90b34c95c336)
 
