@@ -19,7 +19,6 @@ For example, there are periods (like Janurary 2020) when customers favor higher-
 Additionally, the data shows that 2019 and 2020 experienced more prominent growth spikes, whereas 2021 and 2022 saw more frequent declines. This shift could be attributed to factors such as post-pandemic market saturation, inflation, or the inherently less frequent nature of electronics purchases compared to essentials.
 
 ![Sheet 2-3](https://github.com/user-attachments/assets/b49c0a19-9911-450b-afa1-bf969336afb8)
-<img src="[your-image-url](https://github.com/user-attachments/assets/b49c0a19-9911-450b-afa1-bf969336afb8).png" alt="Description" width="500"/>
 
 
 ### Geographic Distribution
