@@ -34,13 +34,11 @@ The main regions for TechNova's total sales are North America, followed by EMEA.
 ### Star Products 
 Among all the products, Apple Airpods are the most popular from 2019 to 2022 contributed to an average 45% of the total order counts across the years, following by monitors and cables, which occupied about an average of 20% of the total order counts each. 
 
-![%Order Counts Product](https://github.com/user-attachments/assets/afcc5853-46cc-4a5a-a5b2-1bd629ff2fae)
-
 The huge number of total orders of Apple Airpods contributed about 30% of the total sales throughout the years, which is ranked at the 2nd place in terms of the % of the total sales. The gaming monitors contributed the most (about 40%) in terms of the total sales across the years. Both MacBooks (~20%) and ThinkPad laptops (~10%) ranked as 3rd and 4th in terms of the % of the total sales while both items only contributed less than 5% in terms of the total order counts. It's also worth noting that in 2020, when the pandemic began, there was an increase for MacBooks. 
 
-![% total sales producti](https://github.com/user-attachments/assets/3987d719-a923-469d-a811-8983ed2f81cb)
-
 Apple Airpods and gaming monitors are the first and second contributors to the sales of TechNova. 
+
+![Sheet 7](https://github.com/user-attachments/assets/20a23fdd-32f3-455c-84d3-9ab942d67d23)
 
 
 ### Refund Rate 
