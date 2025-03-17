@@ -28,7 +28,7 @@ TechNova's total sales are primarily concentrated in English-speaking countries,
 
 The main regions for TechNova's total sales are North America, followed by EMEA. TechNova should consider expanding the market to APAC, which is ranked the thrid on total sales. APAC has the highest AOV (average order value) from Feb 2020 onward most of the time, indicating a strong purchasing power and a willingness to spend more per transaction. LATAM performed the worst in terms of both total sales and AOV. However, there was an unusual surge in AOV from Nov. 2019 to Jan. 2020. Especially in Jan 2020, the AOV is about $400 USD, outperforming the 2nd rank, $264 USD in North America. It's also worth to note the unusual dip of LATAM AOV from Jan. to Sep. 2022, during which the AOV were barely over $200 USD. 
 
-![Sheet 6-2](https://github.com/user-attachments/assets/89921b56-ae15-40c3-8afd-5b78a85130fa)
+![Sheet 6-3](https://github.com/user-attachments/assets/d76bdd31-e262-48c6-a131-ed3c8d952dd3)
 
 
 ### Star Products 
