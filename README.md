@@ -22,14 +22,10 @@ Additionally, the data shows that 2019 and 2020 experienced more prominent growt
 
 
 ### Geographic Distribution
-TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices.
+TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices. The main regions for TechNova's total sales are North America, followed by EMEA. TechNova should consider expanding the market to APAC, which is ranked the thrid on total sales. APAC has the highest AOV (average order value) from Feb 2020 onward most of the time, indicating a strong purchasing power and a willingness to spend more per transaction.
 
 ![Sheet 4 (2)](https://github.com/user-attachments/assets/236f96c0-ecfc-4326-b01e-904998090df4)
 
-
-Regionally, North America records the highest total orders, followed by EMEA, APAC, and LATAM, while EMEA boasts the highest average order value (AOV), outpacing APAC, North America, and LATAM. Given that most customers currently come from North America, TechNova should consider expanding further into the EMEA market to capture high-value clientele.
-
-![Sheet 2-3](https://github.com/user-attachments/assets/6558c683-6bdb-4c20-8e4a-5558a2f79eed)
 
 
 ### Star Products 
