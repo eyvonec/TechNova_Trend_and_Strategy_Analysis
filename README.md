@@ -60,34 +60,20 @@ In general, the refund rates for MacBooks and ThinkPad Laptops are higher (aroun
 
 ### Loyalty Program
 
-#### Total Order Count & Total Sales:
-Non-loyalty typically has a higher total order count overall, but an important crossover happens in March 2021, where loyalty’s total sales catch up and then slightly surpass non-loyalty.
-This suggests that although non-loyalty customers place more orders on average, the loyalty segment’s purchase volume and/or frequency grew sufficiently to drive higher overall sales from March 2021 through mid/late 2022. Likely factors include targeted promotions, improved loyalty benefits, or a successful acquisition campaign that converted existing shoppers into loyal program members.
+#### Total Sales:
+Non-loyalty typically has a higher total order count overall, but an important crossover happens in March 2021, where loyalty’s total sales catch up and then slightly surpass non-loyalty. This suggests that the loyalty segment’s purchase volume and/or frequency grew sufficiently to drive higher overall sales from March 2021 through mid/late 2022. 
 
 #### Average Order Value (AOV):
-For most of the observed period (2019–2022), non-loyalty customers exhibit a higher AOV than loyalty customers. This could mean that while non-loyalty shoppers spend more per transaction, they might be less frequent purchasers. An exception emerges around early 2021 onward, where loyalty AOV occasionally narrows the gap or briefly surpasses non-loyalty AOV. This fluctuation hints that either loyalty customers were encouraged to buy higher-priced items or that promotional strategies specifically boosted their spending during those months.
+For most of the observed period (2019–2022), non-loyalty customers exhibit a higher AOV than loyalty customers. This could mean that while non-loyalty shoppers spend more per transaction, they might be less frequent purchasers. An exception emerges around June 2021 onward, where loyalty AOV narrows the gap or surpasses non-loyalty AOV. This fluctuation hints that either loyalty customers were encouraged to buy higher-priced items or that promotional strategies specifically boosted their spending during those months.
+
+![Sheet 14-2](https://github.com/user-attachments/assets/8ac5bd84-10db-4002-bd2c-a5c19b103240)
 
 #### Loyalty Join Rate by Product:
 From 2019 to mid-2021, the loyalty join rate for key products (e.g., gaming monitors, Apple devices, and Samsung accessories) showed a clear upward trend. This rise indicates successful recruitment efforts or appealing loyalty perks during that timeframe.
 
 Post-mid-2021, a downward trend in join rates emerges, suggesting possible market saturation, waning promotional impact, or program fatigue. This decline might call for revamping the loyalty program or introducing fresh incentives to maintain and grow membership.
 
-#### Overall Program Implications:
-The data points to growing importance of loyalty customers—they may spend less per order on average but still generate significant total revenue due to increased frequency or volume.
-The crossover in total sales around March 2021 is particularly telling: loyalty became a critical revenue driver. Maintaining that momentum may require addressing the recent drop in join rates, whether through new tiers, personalized offers, or enhanced rewards.
-
-In summary, loyalty’s lower AOV is offset by higher order volume, leading to a notable sales advantage from March 2021 onward. However, to sustain this performance, investigating membership growth and engagement will be essential—especially in light of the join-rate decline after mid-2021.
-
-
-![loyalty sale](https://github.com/user-attachments/assets/68b4fd48-d125-47a1-821b-770a2e411a6b)
-
-![loyalty avg](https://github.com/user-attachments/assets/3f2bf6bc-6612-420c-8ab0-816cb7a7fdbe)
-
-![loyalty order count](https://github.com/user-attachments/assets/ca8a5444-7d44-4539-89a5-448406640a29)
-
-![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
-
-
+![Sheet 13-2](https://github.com/user-attachments/assets/4cc2f16a-c9c5-4d03-b8d1-1e4eb415c93f)
 
 
 ## Recommendations 
