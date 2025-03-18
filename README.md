@@ -1,4 +1,4 @@
-# TechNova Trend and Strategy Analysis
+# TechNova Analysis
 Founded in 2018, TechNova is a global e-commerce company specializing in electronics and tech products. Initially focused on online sales, Technova has expanded its reach through both its website and mobile app, catering to a diverse international customer base.
 
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
@@ -123,6 +123,9 @@ Post-mid-2021, a downward trend in join rates emerges, suggesting possible marke
 
 - **Improve Loyalty Retention Post-2022 Drop:**  
   As loyalty-driven sales declined in late 2022, TechNova should analyze potential reasons such as less attractive rewards, changes in customer expectations, or shifts in pricing strategy. A customer survey or behavioral data analysis could help refine loyalty engagement strategies.  
+
+## Tableau Dashboard
+<img width="1291" alt="Dashboard TechNova" src="https://github.com/user-attachments/assets/35e10fc9-615e-4324-b4ca-6fabc5e3a091" />
 
 
 ##### NOTE
