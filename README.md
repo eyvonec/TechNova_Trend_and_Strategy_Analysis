@@ -40,6 +40,13 @@ Apple Airpods and gaming monitors are the first and second contributors to the s
 
 ![Sheet 7](https://github.com/user-attachments/assets/20a23fdd-32f3-455c-84d3-9ab942d67d23)
 
+### Marketing Channel
+The direct method seems to be the most effective and contributes around 80% of the total sales and total order counts throughout the years, following by email, which contributes around 12% total sales and 17% total counts. 
+
+Regarding the effectiveness of each marketing channel to products, the affiliate program seems to work extremely well for gaming monitors, 35% of the total order counts. The effectiveness of affiliate on products is also relevantly even. Considering the total orders for Apple Airpods are the highest regardless of any marketing channel, affiliate can be viewed as the most effective way of marketing. Social media shall be ranked as the 2nd in terms of effectiveness as more types of product orders are coming through it. In addition, emails worked surprisingly well with Samsung Webcam (15% of total order count). 
+
+![Sheet 11](https://github.com/user-attachments/assets/c914c0b4-cc45-4c80-aecd-0081d8d4cdd1)
+
 
 ### Refund Rate 
 The number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all years. This exceptional performance invites further investigation into the factors driving such positive results.
@@ -81,12 +88,6 @@ In summary, loyalty’s lower AOV is offset by higher order volume, leading to a
 ![Loyalty Join rate product](https://github.com/user-attachments/assets/ccae610f-a8b5-4115-bb47-bc25699f49d2)
 
 
-### Marketing Channel
-The direct method seems to be the most effective and contributes around 80% of the total sales and total order counts throughout the years, following by email, which contributes around 12% total sales and 17% total counts. 
-
-Regarding the effectiveness of each marketing channel to products, the affiliate program seems to work extremely well for gaming monitors, 35% of the total order counts. The effectiveness of affiliate on products is also relevantly even. Considering the total orders for Apple Airpods are the highest regardless of any marketing channel, affiliate can be viewed as the most effective way of marketing. Social media shall be ranked as the 2nd in terms of effectiveness as more types of product orders are coming through it. In addition, emails worked surprisingly well with Samsung Webcam (15% of total order count). 
-
-![Sheet 11](https://github.com/user-attachments/assets/c914c0b4-cc45-4c80-aecd-0081d8d4cdd1)
 
 
 ## Recommendations 
