@@ -4,7 +4,7 @@ Founded in 2018, TechNova is a global e-commerce company specializing in electro
 To acquire and retain customers, Technova leverages a mix of marketing channels, including email campaigns, social media, SEO, and affiliate partnerships. The company has built a strong reputation for offering premium and high-demand tech products, particularly from Apple, Samsung, and ThinkPad, among others.
 
 ## Executive Summary
-Between 2019 and 2022, TechNova recorded **108K orders and $28M in sales** across 193 countries, with **Apple AirPods and gaming monitors** as top revenue drivers. A **pandemic-driven surge** in 2020 led to strong growth, but **declining sales in 2021-2022** highlight shifting consumer behavior, post-pandemic saturation, and economic pressures. **Key recommendations** include optimizing product strategies, **expanding into high-value EMEA markets**, and refining **marketing efforts**—especially via **affiliates and social media**. Additionally, improving **customer experience** and addressing **refund trends** will drive **sustained growth**. 
+Between 2019 and 2022, TechNova recorded **108K orders and $28M in sales** across 193 countries, with **Apple AirPods and gaming monitors** as top revenue drivers. A **pandemic-driven surge** in 2020 led to strong growth, but **declining sales in 2021-2022** highlight shifting consumer behavior, post-pandemic saturation, and economic pressures. **Key recommendations** include optimizing product strategies, **expanding into high-value APAC markets**, and refining **marketing efforts**—especially via **affiliates, email and social media**. Additionally, improving **customer experience** and addressing **refund trends** will drive **sustained growth**. 
 
 ## Deep Dive Insights
 ### Trend Analysis
