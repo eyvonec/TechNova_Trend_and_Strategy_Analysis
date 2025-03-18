@@ -76,26 +76,54 @@ Post-mid-2021, a downward trend in join rates emerges, suggesting possible marke
 ![Sheet 13-2](https://github.com/user-attachments/assets/4cc2f16a-c9c5-4d03-b8d1-1e4eb415c93f)
 
 
-## Recommendations 
+### Recommendations:
 
-### **1. Optimize Product Strategy**  
-- Focus on **top sellers** (AirPods, gaming monitors) and bundle accessories.  
-- Address **high refund rates** for MacBooks, ThinkPads, and iPhones.  
-- Leverage **Bose Headphones’ zero refunds** to improve other products.  
+#### **1. Sales and Seasonal Strategy Optimization**
+- **Capitalize on Peak Demand Periods:**  
+  The significant pandemic-driven surge in March 2020 and consistent sales spikes in November and December highlight strong seasonal demand. TechNova should expand holiday promotions, bundle deals, and targeted marketing campaigns to maximize conversions during these high-growth months.  
 
-### **2. Expand in High-Value Markets**  
-- **Grow EMEA presence** (highest AOV) through localized promotions.  
-- **Strengthen in top markets** (U.S., UK, Canada) with targeted campaigns.  
+- **Mitigate Post-Holiday Sales Dips:**  
+  The notable downturns after peak seasons (e.g., October 2022: -46.88% in orders, -55.2% in sales) suggest the need for post-holiday retention campaigns, such as targeted discounts for repeat customers, exclusive loyalty offers, and early-bird deals for upcoming product launches.  
 
-### **3. Optimize Marketing for ROI**  
-- **Scale affiliate marketing** (35% of gaming monitor sales).  
-- **Leverage social media** for product variety.  
-- **Enhance email marketing**, especially for Samsung Webcams.  
+#### **2. Geographic Expansion and Market Focus**
+- **Expand in APAC for High-AOV Opportunities:**  
+  APAC consistently shows the highest AOV post- May 2020, signaling strong spending power. Localized marketing campaigns, partnerships, and regional pricing strategies should be implemented to drive higher adoption in APAC markets.  
 
-#### **4. Reduce Refunds & Improve Customer Experience**  
-- Fix **data gaps** (missing refund data post-2021).  
-- Investigate **iPhone refund spikes** (33-40%).  
-- Improve **warranty & customer support** for high-return items.  
+- **Analyze LATAM Market Decline:**  
+  LATAM has the lowest total sales and AOV, but the unusual AOV surge in early 2020 suggests an opportunity for premium pricing during specific demand periods. Investigating regional economic conditions and purchasing trends could inform targeted sales strategies.  
+
+- **Enhance Personalization in the U.S. & Canada:**  
+  As TechNova's strongest markets, the U.S. and Canada should be leveraged for personalized product recommendations, exclusive VIP loyalty tiers, and segmented promotions to drive repeat purchases.  
+
+#### **3. Product Strategy and Inventory Planning**
+- **Expand High-Margin Laptop Sales:**  
+  Despite MacBooks (~20% of total sales) and ThinkPads (~10%) having lower order counts (<5%), their high-value contribution suggests potential for premium marketing strategies, student/work-from-home bundles, and extended warranty upsells.  
+
+- **Leverage Refund Insights to Improve Customer Satisfaction:**  
+  The higher refund rates for MacBooks and ThinkPads (~0.2) vs. near-zero refunds for Bose Headphones indicate that there is a need to study the causes of this discrepency to improve the product description, post-purchase support, and quality guarantees, which could enhance customer retention and trust.
+
+
+#### **4. Marketing Channel Optimization**
+- **Strengthen Direct Sales & Affiliate Programs:**  
+  Direct sales drive 80% of orders, making them TechNova’s most effective channel. However, affiliate marketing (35% of orders for gaming monitors) has shown high product-specific effectiveness. Expanding affiliate partnerships, influencer marketing, and tech review collaborations can drive additional sales in key product categories.  
+
+- **Boost Social Media-Driven Orders:**  
+  Social media ranks second in marketing effectiveness due to its influence on multiple product categories. Further investments in social commerce, short-form video promotions (TikTok, Instagram Reels), and influencer partnerships can expand reach.  
+
+- **Enhance Email Targeting for Product-Specific Gains:**  
+  Samsung Webcams performed best through email marketing (15% of orders), showing that email is effective for targeted product promotions. Refining email segmentation, abandoned cart reminders, and exclusive discount campaigns can improve overall sales.
+
+
+#### **5. Loyalty Program Enhancements**
+- **Address Declining Loyalty Join Rates Post-2021:**  
+  The drop in loyalty membership growth after mid-2021 suggests potential program fatigue or market saturation. TechNova should introduce fresh incentives or experiential rewards (early access to deals, exclusive tech workshops, etc.) to re-engage loyalty customers.  
+
+- **Leverage Loyalty AOV Crossover (2021) for Premium Upsells:**  
+  The March 2021 crossover in total sales between loyalty and non-loyalty members signals that loyalty members have become more frequent and high-value buyers. Offering exclusive high-margin bundles, VIP early access to new products, and personalized rewards can further maximize revenue and maintain the loyalty of customers.  
+
+- **Improve Loyalty Retention Post-2022 Drop:**  
+  As loyalty-driven sales declined in late 2022, TechNova should analyze potential reasons such as less attractive rewards, changes in customer expectations, or shifts in pricing strategy. A customer survey or behavioral data analysis could help refine loyalty engagement strategies.  
+
 
 ##### NOTE
 - For every column, less than 3% is null. Thus, the impact is negligible.
