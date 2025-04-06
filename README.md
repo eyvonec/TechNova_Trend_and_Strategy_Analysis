@@ -18,18 +18,22 @@ For example, there are periods (like Janurary 2020) when customers favor higher-
 
 Additionally, the data shows that 2019 and 2020 experienced more prominent growth spikes, whereas 2021 and 2022 saw more frequent declines. This shift could be attributed to factors such as post-pandemic market saturation, inflation, or the inherently less frequent nature of electronics purchases compared to essentials.
 
-<img width="1044" alt="Screenshot 2025-04-06 at 3 44 55 PM" src="https://github.com/user-attachments/assets/186fb8b1-196e-4e68-916d-547ec498fd44" />
 
+
+<img width="1098" alt="Screenshot 2025-04-06 at 3 57 57 PM" src="https://github.com/user-attachments/assets/857bc6c5-e67b-4805-9a1a-b8253a771829" />
 
 
 ### Geographic Distribution
 TechNova's total sales are primarily concentrated in English-speaking countries, with the U.S. leading, followed by Great Britain and Canada. Although the overall sales distribution among the top 10 countries remained consistent from 2019 to 2022, the pandemic year of 2020 saw an increase in total sales across the top 10 countries (especially US had total sales over $4.8 M USD), reflecting a global surge in demand for electronic devices. 
-<img width="1140" alt="Screenshot 2025-04-06 at 3 45 55 PM" src="https://github.com/user-attachments/assets/2bd179fc-de31-459a-9ef3-6304f16c0054" />
+
+<img width="1196" alt="Screenshot 2025-04-06 at 3 58 21 PM" src="https://github.com/user-attachments/assets/163d2e3c-4a7e-4e98-91a0-d21d0da207e3" />
+
 
 
 The main regions for TechNova's total sales are North America, followed by EMEA. TechNova should consider expanding the market to APAC, which is ranked the thrid on total sales. APAC has the highest AOV (average order value) from Feb 2020 onward most of the time, indicating a strong purchasing power and a willingness to spend more per transaction. LATAM performed the worst in terms of both total sales and AOV. However, there was an unusual surge in AOV from Nov. 2019 to Jan. 2020. Especially in Jan 2020, the AOV is about $400 USD, outperforming the 2nd rank, $264 USD in North America. It's also worth to note the unusual dip of LATAM AOV from Jan. to Sep. 2022, during which the AOV were barely over $200 USD. 
 
-<img width="1139" alt="Screenshot 2025-04-06 at 3 46 15 PM" src="https://github.com/user-attachments/assets/40042e79-3e58-4c6a-8690-7a0a68f260f2" />
+<img width="1193" alt="Screenshot 2025-04-06 at 3 59 00 PM" src="https://github.com/user-attachments/assets/15a603d2-8ef6-4ea6-ae01-3616928becc4" />
+
 
 
 
@@ -40,7 +44,7 @@ The huge number of total orders of Apple Airpods contributed about 30% of the to
 
 Apple Airpods and gaming monitors are the first and second contributors to the sales of TechNova. 
 
-<img width="1190" alt="Screenshot 2025-04-06 at 3 47 48 PM" src="https://github.com/user-attachments/assets/2e3b3bb6-3436-4245-99d3-39e58f46607c" />
+<img width="1195" alt="Screenshot 2025-04-06 at 3 59 20 PM" src="https://github.com/user-attachments/assets/4cbce8c9-6b53-4f01-999b-01d8431246a9" />
 
 
 ### Marketing Channel
@@ -48,19 +52,22 @@ The direct method seems to be the most effective and contributes around 80% of t
 
 Regarding the effectiveness of each marketing channel to products, the affiliate program seems to work extremely well for gaming monitors, 35% of the total order counts. The effectiveness of affiliate on products is also relevantly even. Considering the total orders for Apple Airpods are the highest regardless of any marketing channel, affiliate can be viewed as the most effective way of marketing. Social media shall be ranked as the 2nd in terms of effectiveness as more types of product orders are coming through it. In addition, emails worked surprisingly well with Samsung Webcam (15% of total order count). 
 
+<img width="1337" alt="Screenshot 2025-04-06 at 4 01 02 PM" src="https://github.com/user-attachments/assets/cc89e847-08f9-41f2-9e96-65b0ab0fd14d" />
 
-<img width="1186" alt="Screenshot 2025-04-06 at 3 49 15 PM" src="https://github.com/user-attachments/assets/571d0d88-2d55-4bdc-bf39-6c135090b785" />
+
 
 
 ### Refund Rate 
 The number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all years. Despite this exceptional performance may due to the low number of purchase, further investigation into the factors driving such results may be useful.
 
-<img width="1187" alt="Screenshot 2025-04-06 at 3 48 12 PM" src="https://github.com/user-attachments/assets/f2e8f10c-d65d-458c-9f56-4710d9509925" />
+<img width="1197" alt="Screenshot 2025-04-06 at 4 00 04 PM" src="https://github.com/user-attachments/assets/6c37fbb1-09fb-4505-9930-f0bd2f835eb2" />
+
 
 
 In general, the refund rates for MacBooks and ThinkPad Laptops are higher (around 0.2) comparing to the other products throughout 2019 to 2021 (there is no data from Aug 2021 onwards). On the other hand, iPhones have the highest fluctuation and several notable spikes in refund rates. For instance, in 2019 Q2, 2020 Q3, and 2021 Q1, iPhones have refund rate about 0.2 while in 2019 Q1, 2020 Q1, and 2020 Q4, the refund rates are around 0.05. 
 
-<img width="1083" alt="Screenshot 2025-04-06 at 3 48 28 PM" src="https://github.com/user-attachments/assets/2815bb35-ec00-4757-9ae4-669d2b1e0f18" />
+<img width="1096" alt="Screenshot 2025-04-06 at 4 00 27 PM" src="https://github.com/user-attachments/assets/b883bec1-188e-4f17-94fb-79c63c601790" />
+
 
 
 ### Loyalty Program
@@ -71,7 +78,8 @@ Non-loyalty typically has a higher total order count overall, but an important c
 #### Average Order Value (AOV):
 For most of the observed period (2019–2022), non-loyalty customers exhibit a higher AOV than loyalty customers. This could mean that while non-loyalty shoppers spend more per transaction, they might be less frequent purchasers. An exception emerges around June 2021 onward, where loyalty AOV narrows the gap or surpasses non-loyalty AOV. This fluctuation hints that either loyalty customers were encouraged to buy higher-priced items or that promotional strategies specifically boosted their spending during those months.
 
-<img width="1185" alt="Screenshot 2025-04-06 at 3 50 31 PM" src="https://github.com/user-attachments/assets/1e0721fb-c205-4965-8bbf-8b8732071c4e" />
+<img width="1340" alt="Screenshot 2025-04-06 at 4 01 44 PM" src="https://github.com/user-attachments/assets/98b9d580-dc2d-455e-b77e-babbff9b37b5" />
+
 
 
 #### Loyalty Join Rate by Product:
@@ -79,7 +87,8 @@ From 2019 to mid-2021, the loyalty join rate for key products (e.g., gaming moni
 
 Post-mid-2021, a downward trend in join rates emerges, suggesting possible market saturation, waning promotional impact, or program fatigue. This decline might call for revamping the loyalty program or introducing fresh incentives to maintain and grow membership.
 
-<img width="1186" alt="Screenshot 2025-04-06 at 3 53 59 PM" src="https://github.com/user-attachments/assets/0babcbf3-8799-46b2-b60c-863d81086c07" />
+<img width="1340" alt="Screenshot 2025-04-06 at 4 01 25 PM" src="https://github.com/user-attachments/assets/db3b62d1-05e8-4fa7-b996-04d4e487585c" />
+
 
 
 
