@@ -53,7 +53,7 @@ Regarding the effectiveness of each marketing channel to products, the affiliate
 
 
 ### Refund Rate 
-The number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all years. This exceptional performance invites further investigation into the factors driving such positive results.
+The number of refunds across the months shows a positive relationship between the number of orders and the number of refunds. For the most popular product, Apple Airpods, while taking an average 45% of the total monthly orders, Airpods occupied about 50% of the refunds every month. However, starting from Aug 2021 onwards, there was no refund, which is likely caused by missing data. Additionally, it’s worth noting that Bose Headphones recorded almost zero refunds across all years. Despite this exceptional performance may due to the low number of purchase, further investigation into the factors driving such results may be useful.
 
 <img width="1187" alt="Screenshot 2025-04-06 at 3 48 12 PM" src="https://github.com/user-attachments/assets/f2e8f10c-d65d-458c-9f56-4710d9509925" />
 
