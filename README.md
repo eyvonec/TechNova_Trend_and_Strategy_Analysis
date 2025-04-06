@@ -141,7 +141,7 @@ Post-mid-2021, a downward trend in join rates emerges, suggesting possible marke
   As loyalty-driven sales declined in late 2022, TechNova should analyze potential reasons such as less attractive rewards, changes in customer expectations, or shifts in pricing strategy. A customer survey or behavioral data analysis could help refine loyalty engagement strategies.  
 
 ## Tableau Dashboard
-<img width="1291" alt="Dashboard TechNova" src="https://github.com/user-attachments/assets/35e10fc9-615e-4324-b4ca-6fabc5e3a091" />
+
 
 
 ##### NOTE
